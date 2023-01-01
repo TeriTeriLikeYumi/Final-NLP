@@ -1,0 +1,131 @@
+<author lang="en">
+	<documents>
+		<document><![CDATA[@parrots I KNEW IT
+
+optimizations, my ass]]></document>
+		<document><![CDATA[@parrots what demon did you make a deal with to get performance gains like that]]></document>
+		<document><![CDATA[@parrots unless you’re doing things with strings]]></document>
+		<document><![CDATA[@linea_app no, totally fine 😊]]></document>
+		<document><![CDATA[trying out @iconfactory’s new sketching app, https://t.co/sfOATg06KF. i’m… cautiously impressed. https://t.co/uRWPvYKNp2]]></document>
+		<document><![CDATA[@jmacmullin @playgroundscon i wish you were, too.]]></document>
+		<document><![CDATA[@the_katie_m i’m sure someone will swede it sooner or later.]]></document>
+		<document><![CDATA[@caseyliss JELLY WILL RETURN IN [REDACTED]]]></document>
+		<document><![CDATA[@caseyliss remember topical? and mobile couch? and when the world wasn’t sadness and ashes?]]></document>
+		<document><![CDATA[as of today, the @gifwrapped codebase (with the exception of some of the frameworks i use) is _entirely_ swift. BOOM.]]></document>
+		<document><![CDATA[@YasmineEvjen it’s BEE-utiful]]></document>
+		<document><![CDATA[@parrots (until they deprecate UITableView, hah!)]]></document>
+		<document><![CDATA[@parrots you and me both, man. i honestly feel like we’re safe doing so for the foreseeable future.]]></document>
+		<document><![CDATA[@parrots that’d stop alerts, but it wouldn’t stop other uses of the URL.]]></document>
+		<document><![CDATA[@parrots my solution would be to check for alert controllers that have “review” or “rating” in the title or message, flag for investigation.]]></document>
+		<document><![CDATA[@parrots super easy to get around too, imho. literally just use a URL redirect, and you’re done.]]></document>
+		<document><![CDATA[@parrots maybe? how do you determine what alert controller is for reviews? look for ones that call app store urls in the action handlers?]]></document>
+		<document><![CDATA[@parrots i have my doubts as to whether apple can and will ever actually enforce the new alerts. just look at push notification advertising.]]></document>
+		<document><![CDATA[@parrots i just discovered this in the docs for SKStoreReviewController.requestReview(). adding this to my existing… https://t.co/frvF30wkZF]]></document>
+		<document><![CDATA[@rustyshelf @marcedwards it’s fine, russell. furbys are just evil, mutant koala toys.
+
+nothing to worry about. probably.]]></document>
+		<document><![CDATA[@marcedwards it drops a toaster into the bath with you.]]></document>
+		<document><![CDATA[@SamTheGeek hamill spent too much time on set for them to pull that stunt again.
+
+probably.]]></document>
+		<document><![CDATA[did a sugar skull illustration for a client today. not exactly my usual fair, but sometimes it’s good to stretch yourself, right?]]></document>
+		<document><![CDATA[@bed42 a reasonable amount 😉 
+
+dm me and we can chat about it.]]></document>
+		<document><![CDATA[@ismh i don't have a vector version of it, but i can shoot the (bitmap) sketch through to your email 😊]]></document>
+		<document><![CDATA[@ismh @mrssoup did you end up seeing the sketch i did of you?]]></document>
+		<document><![CDATA[@mrssoup heck yeah. high five to you, too!
+
+HIGH FIVES FOR EVERYBODY]]></document>
+		<document><![CDATA[i totally feel like my eyebrow game went up a few notches with that portrait. high five to me!]]></document>
+		<document><![CDATA[@mrssoup https://t.co/mu6FusnAOt it has been an honour!]]></document>
+		<document><![CDATA[@swiftlypeter can’t come soon enough!]]></document>
+		<document><![CDATA[@parrots i miss this too. quite often.]]></document>
+		<document><![CDATA[been working on a commission this morning, which is a nice change of pace.]]></document>
+		<document><![CDATA[@RebeccaSlatkin he joined a motorcycle gang]]></document>
+		<document><![CDATA[@rustyshelf yeah. my gut reaction was not positive when i saw the news. remember sparrow? i loved that app 😭😭😭]]></document>
+		<document><![CDATA[@tonyarnold that said, loving the updates. y’all do great work.]]></document>
+		<document><![CDATA[@tonyarnold i have no idea what version chrome is at, for instance. it just quietly updates. who cares what version it’s at.]]></document>
+		<document><![CDATA[@tonyarnold yeah, which is part of why i was confused. i guess part of it is that apps which support a similar approach typically hide it.]]></document>
+		<document><![CDATA[@tonyarnold @reveal_app ah. i must have missed that section when i read the post. makes sense.]]></document>
+		<document><![CDATA[@tonyarnold i’m super curious: what’s the go with @reveal_app’s version numbering?]]></document>
+		<document><![CDATA[@nicklockwood i’ll try it when i get a chance to go back and revisit. for now i’ve dropped to NSString (and left future me a little note).]]></document>
+		<document><![CDATA[@bentrengrove that’s my guess]]></document>
+		<document><![CDATA[and the times i’m getting?
+
+NSString: ~0.23 sec
+String: ~6.4 sec]]></document>
+		<document><![CDATA[for those who care: i’m pulling a series of URLs from a HTML page using a collection of known ranges.]]></document>
+		<document><![CDATA[@rustyshelf it’s about as performant as a slug covered in superglue, but don’t worry… IT’S SAFE]]></document>
+		<document><![CDATA[apparently swift’s substring methods are significantly slower than their obj-c counterparts.]]></document>
+		<document><![CDATA[sometimes, looking at my old code, i wonder if i’ve somehow landed in a universe where past me was replaced with a mildly intelligent rock.]]></document>
+		<document><![CDATA[@danielcormier at least part of the reason is because my old setup got moved to my wife’s office so she can record @Screen_Queens]]></document>
+		<document><![CDATA[@danielcormier when i’m ready 😊]]></document>
+		<document><![CDATA[@rustyshelf along with every android phone that ever existed.]]></document>
+		<document><![CDATA[@rustyshelf cool cool cool
+
+i mean, it’s just really not that impressive unless you actually have all of them ¯\_(ツ)_/¯]]></document>
+		<document><![CDATA[@mattdonders @caseyliss i may have spent an inordinate amount of time thinking about this.]]></document>
+		<document><![CDATA[@mattdonders @caseyliss what you _really_ want is @tweetbot to implement a document picker for attaching images.]]></document>
+		<document><![CDATA[@SamTheGeek functions as intended]]></document>
+		<document><![CDATA[@caseyliss perhaps this is because @imyke is the ultimate version of casey liss
+
+HMMMMM]]></document>
+		<document><![CDATA[@siracusa if all else fails, you could buy the game from japan? the switch isn’t region locked.]]></document>
+		<document><![CDATA[today i rewrote a UISearchBar more or less from scratch and i just want it all to be over please]]></document>
+		<document><![CDATA[@rustyshelf your hair is very blue]]></document>
+		<document><![CDATA[@rustyshelf you’re really sharing the joy around]]></document>
+		<document><![CDATA[@rustyshelf i like your peach coloured suit]]></document>
+		<document><![CDATA[@rustyshelf one two three
+
+the number of ice cubes in the glass]]></document>
+		<document><![CDATA[@rustyshelf please look at this square button]]></document>
+		<document><![CDATA[@tonyarnold it should be indicated by an asterisk to show that it’s a special snowflake]]></document>
+		<document><![CDATA[i had a list of ~5 bugs i was going to fix today. i fixed one, and then got sidetracked on a related thing i wasn’t supposed to worry about.]]></document>
+		<document><![CDATA[@rustyshelf so that’s a yes then
+
+cool cool cool]]></document>
+		<document><![CDATA[@rustyshelf so you’re saying the pixel is basically just a glorified battery pack? got it.]]></document>
+		<document><![CDATA[@tombrazelton i had to use toys and crappy pre-release photos for reference when i did mine. looking forward to seeing yours!]]></document>
+		<document><![CDATA[@tombrazelton you gonna take another swing at it?]]></document>
+		<document><![CDATA[@tombrazelton oh man, i did a portrait of him a while back. his proportions are hard to nail.]]></document>
+		<document><![CDATA[@mikahsargent @mikah_ebooks you have a very interesting selection of monopoly tokens.]]></document>
+		<document><![CDATA[seems like they made it so one could simply drop a swift file into an obj-c framework at some point]]></document>
+		<document><![CDATA[@ismh great work on the lighting on this and the most recent vid 👌🏼]]></document>
+		<document><![CDATA[@AndyGraham120 i do follow up on superbowl ads after the fact though, and i get globes and oscars highlights from @melissasavage.]]></document>
+		<document><![CDATA[@AndyGraham120 i don’t watch any of them ¯\_(ツ)_/¯]]></document>
+		<document><![CDATA[@AndyGraham120 oof! that’s dedication. i hope @TheRock wins all of the globes (i’m 76% sure that’s how it works).]]></document>
+		<document><![CDATA[just set up a new microphone (same as the old one) and a new audio interface (not the same as the old one)]]></document>
+		<document><![CDATA[five delivery update text messages from @auspost, from five different mobile numbers… and they still couldn’t deliver to my actual house.]]></document>
+		<document><![CDATA[@parrots “You have one day to buy a Trip Pass, or I will kill a hostage.”]]></document>
+		<document><![CDATA[@The_Dudi @_mobilecouch sadly, no. not because they don’t exist (there’s tonnes), i just don’t listen to them myself. ¯\_(ツ)_/¯]]></document>
+		<document><![CDATA[@littlemissscifi a+++ would watch again]]></document>
+		<document><![CDATA[@YasmineEvjen @rustyshelf he’s only the second most competitive i’ve ever met 😉]]></document>
+		<document><![CDATA[@parrots well, let me know if you need help tracking it for real. sometimes it helps to bounce it off someone else 😊]]></document>
+		<document><![CDATA[@parrots yeah… i’m actually thinking you might need to just file a radar, and potentially track down a mapkit engineer.]]></document>
+		<document><![CDATA[@parrots ah. which means you’re not actually setting up the EAGLContext object in the first place, yeah?]]></document>
+		<document><![CDATA[@parrots could it be something to do with `multiThreaded`? docs suggest there could be correlation if the older devices don’t support it.]]></document>
+		<document><![CDATA[@parrots damn it, now i’m actually googling this.]]></document>
+		<document><![CDATA[@parrots here in 2017, that bug is already fixed.]]></document>
+		<document><![CDATA[@danielsaidi @RebeccaSlatkin the app is procreate on a 12.9” ipad pro, and the video is probably blocked because of the music ¯\_(ツ)_/¯]]></document>
+		<document><![CDATA[@_ambivert oh damn. possibly because of the music track… sorry! i’ll see if i can sort it out by removing the sound.]]></document>
+		<document><![CDATA[excuse me while i go to bed for threee weeks to recuperate.]]></document>
+		<document><![CDATA[drove to my parents’ today for a birthday party, then home again afterwards. all told, probably 6½ hours of driving.]]></document>
+		<document><![CDATA[@SamTheGeek @brianmichel i’m just glad they’re implemented, and not theoretical]]></document>
+		<document><![CDATA[@RebeccaSlatkin i was aiming to chat in the coming week, post new year’s crazy.]]></document>
+		<document><![CDATA[@RebeccaSlatkin it does need some tweaks, but i’ll need to get you right-ish for the podcast artwork 😉]]></document>
+		<document><![CDATA[(it might take a bit for the video to become available, because processing or whatever)]]></document>
+		<document><![CDATA[couple of new additions from today’s stream. have a great new year, everyone!
+
+https://t.co/f9UtzhF9aL https://t.co/OteXkmZsD7]]></document>
+		<document><![CDATA[lost the stream there for a bit? let’s try again.
+
+https://t.co/f9UtzhF9aL]]></document>
+		<document><![CDATA[@ismh not yet. warm-up sketch first :)]]></document>
+		<document><![CDATA[stream is up. come hang out!
+
+https://t.co/43N3WekNar]]></document>
+		<document><![CDATA[@rustyshelf @caseyliss @melissasavage i’m taking another pass at it today.]]></document>
+		<document><![CDATA[@rustyshelf @caseyliss @melissasavage nailed it, except for (not-)marco.]]></document>
+	</documents>
+</author>

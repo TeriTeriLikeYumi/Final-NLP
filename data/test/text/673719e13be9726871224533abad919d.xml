@@ -1,0 +1,104 @@
+<author lang="en">
+	<documents>
+		<document><![CDATA[@cprieto wow, the SQL Server Docker image shrunk recently :)]]></document>
+		<document><![CDATA[@Plantronics I have an aging 615M single-ear headset and mic with USB connector. Which current model is the most direct replacement?]]></document>
+		<document><![CDATA[Thoroughly enjoyed @web_goddess' insights on making the lateral move from techie to manager tonight at #altnetsyd https://t.co/dayMtLKv26]]></document>
+		<document><![CDATA[Great to see @sir_tilbrook spreading the good word about using Docker for build automation at #altnetsyd tonight.]]></document>
+		<document><![CDATA[@FOXTEL_Help Yes, everything is in my name only (same as my Twitter bio), there are no other people on the account.]]></document>
+		<document><![CDATA[@FOXTEL_Help I received my Foxtel account number and installation appointment but https://t.co/94au1gnoPl rejects my details as invalid.]]></document>
+		<document><![CDATA[Email from @telstra reads "Watch @foxtel Go now before installation" but rego fails and tech-supt says to wait until install to activate. :(]]></document>
+		<document><![CDATA[@StanAustralia Nevermind, I found Fargo Season 1 on @NetflixANZ]]></document>
+		<document><![CDATA[@StanAustralia I was watching Fargo Season 1 yesterday but today only Season 2 is available. I still had 4 episodes left.  What happened?]]></document>
+		<document><![CDATA[In 2017, a decade since Visual Voicemail was first introduced, one telco still isn't sure they will support it. https://t.co/hqAfo2atm2]]></document>
+		<document><![CDATA[@paulstovell @slace sounds great]]></document>
+		<document><![CDATA[@slace are you standing me up? /cc @paulstovell]]></document>
+		<document><![CDATA[@robdmoore hope you can share more details at a later date.]]></document>
+		<document><![CDATA[@mattiasgeniar Varnish Cache is explicitly decoupled from a specific TLS implementation. Is this a similar pattern emerging for DBs? :)]]></document>
+		<document><![CDATA[@yow_conf The 2016 playlist on Youtube has most videos marked private for the past 3 weeks. Any ETA on public? https://t.co/M92LL4knb9]]></document>
+		<document><![CDATA[@fearthecowboy Same thing happens on my Lenovo P50. Haven't isolated yet but smells of kernel, drivers, or interrupts. Not my debug forte.]]></document>
+		<document><![CDATA[Great to see @hacks4pancakes, @jessysaurusrex, and @laparisa in this top 50 list, they've definitely earned it. https://t.co/xqIHzmn71J]]></document>
+		<document><![CDATA[@patrickdebois during business hours I do what the company needs. Outside hours I do what I find interesting. Sometimes there is overlap. :)]]></document>
+		<document><![CDATA[Bilingual puns might be my favourite]]></document>
+		<document><![CDATA[@DavidRGardiner I replaced the company PPTP VPN with SSTP in ~2012 'cause too many NAT devices choked on GRE. Also weak auth. Wish you luck.]]></document>
+		<document><![CDATA[I ask because I just experienced a website's password reset workflow that differed from my expectations.]]></document>
+		<document><![CDATA[How should a website password reset workflow proceed when your have 2FA configured on your account?]]></document>
+		<document><![CDATA[@FOXTEL_Help I'm an ex-Presto user signing up for Foxtel Play using the PRESTO2PLAY promo code I was sent but the last step rejects it.]]></document>
+		<document><![CDATA[Any recommendations for giving each ssh login an isolated shell in its own container? Only found https://t.co/dz89JHGXqh so far.]]></document>
+		<document><![CDATA[@StanAustralia the images fail to load on your help article about closed captions https://t.co/HnmCeEv2tY]]></document>
+		<document><![CDATA[When your laptop won't enter standby mode and you're not sure why https://t.co/GZZ8JtnWz4]]></document>
+		<document><![CDATA[Frustrating that CloudFormation allows a malformed template to pass validate-template and create-change-set only to fail on execute.]]></document>
+		<document><![CDATA[Seeing commits in open source projects just to update the year in the all the copyright comments. Why is this a thing? :(]]></document>
+		<document><![CDATA[If Virtualbox crashes on start for you in Windows 10 Build 15002, try the latest test builds of Virtualbox https://t.co/BZ27xr1e1B]]></document>
+		<document><![CDATA[Disabling push notifications for new app features is the new unsubscribe.]]></document>
+		<document><![CDATA[@mjolinor and I think cellular networks will become pure data conduits like your land line, eroding the telcos' more profitable services.]]></document>
+		<document><![CDATA[@mjolinor I haven't had a land line for at least 5 years. Do your friends and family prefer to speak to a location instead of a person? ;)]]></document>
+		<document><![CDATA[With the growing popularity of voice and video chat apps I think telcos are concerned mobile calls and SMS will go the way of the land line.]]></document>
+		<document><![CDATA[@paulstovell a combination of Trello and daily summary posts to Slack.]]></document>
+		<document><![CDATA[TFW you discover an AWS Spot Instance has remained running uninterrupted for over 4 months and has cost 82% less than the On Demand price.]]></document>
+		<document><![CDATA[Found it but it still needed SMS permission briefly to register - didn't allow typing the verification codes. https://t.co/93mSPSlmPB]]></document>
+		<document><![CDATA[Um... no. Please tell me I'm doing it wrong. #AndroidNoob #LeastPrivilege https://t.co/8T8Dbxked9]]></document>
+		<document><![CDATA[Can anyone explain the meaning/source of the 12-hex-character filenames that Docker creates under /var/run/docker/netns/? #lazyweb]]></document>
+		<document><![CDATA[@slace composition over inheritance]]></document>
+		<document><![CDATA[It is easy as an optimistic developer to underestimate the cost to build a solution yourself compared to buying an… https://t.co/UxRBSSxmxo]]></document>
+		<document><![CDATA[@PawelPabich There is a legacy of sites/frameworks that only use HTTPS on "sensitive" pages and redirect away from it for everything else.]]></document>
+		<document><![CDATA[It's 2017, can sites stop redirecting back to HTTP from HTTPS now? 🤦‍♂️]]></document>
+		<document><![CDATA[Received a USB drive from a vendor in a conference swag bag. Do I plug it in? ;)]]></document>
+		<document><![CDATA[I'm waiting for a Tesla to unplug itself and re-park elsewhere when charging completes. https://t.co/qfG7iANgsT]]></document>
+		<document><![CDATA[Finally tried Cardless Cash to withdraw money from an ATM. The one-time codes certainly feel more secure than using my card and PIN.]]></document>
+		<document><![CDATA[@GrahamDumpleton having fun with kubectl and docker? ;)]]></document>
+		<document><![CDATA[@troyhunt seems BSOD only shows on primary screen now. Shame QR code doesn't include the actual error number or details.]]></document>
+		<document><![CDATA[@GoToMeeting Thank you for such a prompt and helpful response.]]></document>
+		<document><![CDATA[@GoToMeeting WebApp fails in Chrome 56 because of insecure HTTPS on wss://mcs52-1-isp*.atl.expertcity.com/websocket… https://t.co/NCEqG1f4Fs]]></document>
+		<document><![CDATA[Windows Phone may have an app gap but at least I didn't need to click "hide ad" or "less like this" on every third post.]]></document>
+		<document><![CDATA[@Optus Precisely. I wish to operate a smartphone device in a limited wireless-broadband-only mode at data-only-SIM prices. Device != service]]></document>
+		<document><![CDATA[Impressed how smooth scrolling is on the G4 Play's Snapdragon 410 compared to the jankiness on the Lumia 950 XL's 810 for many apps.]]></document>
+		<document><![CDATA[@GeoffreyHuntley @slace some popular apps lack feature parity across platforms. Almost like they're not building with Xamarin.]]></document>
+		<document><![CDATA[@slace couldn't justify price of Pixel for initial foray into Android. Certainly a nice option later though.]]></document>
+		<document><![CDATA[Bought a Moto G4 Play to try Android. Nice experience so far. Surprised phone encryption is opt-in on Marshmallow instead of default.]]></document>
+		<document><![CDATA[Amaysim however are so far working perfectly well with a data-only prepaid SIM in the phone. And it's the same network infrastructure.]]></document>
+		<document><![CDATA[TIL Optus refuse to sell a data-only SIM to use in a phone. Only sell voice SIMs at higher data prices. Data SIMs deactivate in a phone.]]></document>
+		<document><![CDATA[Grateful for the opportunity to attend #yow16. Thanks to the @yow_oz team for organising a great conference. Looking forward to #yow17.]]></document>
+		<document><![CDATA[Continuing the important theme of resilience with @ghohpe at #yow16 Sydney. Synchronous != Resilient.]]></document>
+		<document><![CDATA[Very intrigued to try @elmlang for my next web app thanks to @jessitron's #yow16 talk. https://t.co/e0kJY0zvHE]]></document>
+		<document><![CDATA[Great talk from @SeanChittenden about incremental automation adoption at #yow16. Lotsa audience members familiar with the @HashiCorp tools.]]></document>
+		<document><![CDATA[Enjoying #yow16 Sydney Day 2 keynote by @rebeccaparsons. Calling out the importance of one of my favourite books https://t.co/9iWXaHnp7n]]></document>
+		<document><![CDATA[@modocache Sublime, PowerShell or Cygwin, Gmail in browser]]></document>
+		<document><![CDATA[Responding to an incident while attending #yow16 Sydney. #oncallselfie /cc @alicegoldfuss https://t.co/UiAg9yh3E9]]></document>
+		<document><![CDATA[More distributed system gold, this time from @caitie at #yow16 Sydney https://t.co/c1B1m6mqlL]]></document>
+		<document><![CDATA[Front and centre for @randommood's #yow16 Sydney talk about Resilient Distributed Systems. https://t.co/MEoYDu0hZe]]></document>
+		<document><![CDATA[@thechargebar need some USB Type C connectors on your stations at Australian Technology Park Conference Centre :)]]></document>
+		<document><![CDATA[Kudos to @yow_oz Sydney for their excellent catering https://t.co/Tokk67jJ1B]]></document>
+		<document><![CDATA[Enjoying @IanDCrosby promoting Docker and Golang all-the-things at #yow16 Sydney https://t.co/cLLBHTk5tN]]></document>
+		<document><![CDATA[Great talk from @unclebobmartin to open #yow16 Sydney. Both scary and inspiring.]]></document>
+		<document><![CDATA[It begins! @yow_oz #yow16 Sydney. https://t.co/1S01idhlFL]]></document>
+		<document><![CDATA[It seems @velocityconf Santa Clara still holds the record for best availability of laptop recharge facilities for attendees so far.]]></document>
+		<document><![CDATA[@alicegoldfuss great article. Thanks for sharing.]]></document>
+		<document><![CDATA[Step 1: Install the mirror locally. So... In a nearby AWS/Azure region? :) https://t.co/UOHsAsQ82M]]></document>
+		<document><![CDATA[The 1st company I built an online store for accepted (back) orders for products not currently in stock. I'm baffled when other stores don't.]]></document>
+		<document><![CDATA[We're looking for people to help us grow @sectionio in Boulder, Colorado: https://t.co/BrMnVdXplO]]></document>
+		<document><![CDATA[Awesome! I'm going to @yow_oz Sydney #yow16 thanks to @alt_net. Hope to see you there.]]></document>
+		<document><![CDATA[And now the fix is in master! Will hopefully ship in nginx 1.11.7 soon. https://t.co/Tk6FaM3HUD]]></document>
+		<document><![CDATA[@robdmoore I try to ensure my 2fa generators are pre-configured on my phone and another backup device for just this scenario.]]></document>
+		<document><![CDATA[Enjoyed talking to the @elastic peeps and fellow users at #elasticon Sydney today. Keen to get Elastic Stack 5.0 into Production use.]]></document>
+		<document><![CDATA[@burgomg not sure but there is spec-correct and then there is interoperable with incumbent ISP implementation-correct. :)]]></document>
+		<document><![CDATA[TIL Alpine's musl-libc is different to glibc when the DNS server sends NOERROR instead of NXDOMAIN for unknown names https://t.co/Cp6QdQq2JX]]></document>
+		<document><![CDATA["TLS" renamed back to "SSL" in 2016 despite being superseded in the '90s. This is why we can't have nice things. :( https://t.co/qiu2TiRd9U]]></document>
+		<document><![CDATA[Just had a fantastic experience with @FitbitSupport Live Chat to replace a damaged wristband on my Fitbit Alta.]]></document>
+		<document><![CDATA[Specifically stopping the workers is disabled where I wanted a brief sample of debug logs inside a Docker container https://t.co/lftG48uBpf]]></document>
+		<document><![CDATA[Wanted to swap-in an nginx-debug binary without closing sockets but that feature is disabled when not daemonized :( https://t.co/SBqpoPD082]]></document>
+		<document><![CDATA[My last 24hrs: isolating an obscure @nginxorg bug where 32B of HTTP/2 request bodies are corrupted on &gt;8kB POSTs https://t.co/95U0u8evPz]]></document>
+		<document><![CDATA[@Netflixhelps Can we expect a category containing just Christmas movies, eg Die Hard :P,  to appear on Netflix Australia soon?]]></document>
+		<document><![CDATA[I also discovered today that searching Chromium source with Google Search is much harder than I expected it to be.]]></document>
+		<document><![CDATA[TIL Chrome sends HTTP/2 request bodies in 2852-byte frames because that's ~ 2 * Maximum Segment Size - Frame Header. https://t.co/sF7J0e9jqm]]></document>
+		<document><![CDATA[@LastPassHelp why can I share a Secure Note or a Site but I cannot share a Form Fill Profile?]]></document>
+		<document><![CDATA[@jessfraz be sure to check out the lemurs.]]></document>
+		<document><![CDATA[@developerjack if it's behaviour I wouldn't tolerate in the workplace, I won't tolerate it on Twitter, no matter how awesome their skills.]]></document>
+		<document><![CDATA[@Bose_Australia your US online store will sell the QC3 replacement ear cushions but not ship to AU. Your AU site doesn't list them. Help!]]></document>
+		<document><![CDATA[@Telerik Fiddler 4.6.3 shipped recently but I cannot find the release notes.]]></document>
+		<document><![CDATA[Travelled through 4 time zones in the last 3 weeks. Lost my @fitbit steps on every sync. Have now discovered this is a known issue. :S]]></document>
+		<document><![CDATA[@BeerCartel I might need to get one of these for my next growler fill https://t.co/nhCeXEqINL]]></document>
+		<document><![CDATA[@fearthecowboy it is normal for providing HTTPS on a single IP but with SNI available it is now done mostly as a fallback for older clients.]]></document>
+		<document><![CDATA[Actually changed my car clock in the same week DST started after wrestling with the dash buttons. I sure hope @TeslaMotors has this solved.]]></document>
+		<document><![CDATA[@developerjack @TripIt easily justifies the annual subscription price for me]]></document>
+	</documents>
+</author>

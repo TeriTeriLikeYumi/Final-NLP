@@ -1,0 +1,104 @@
+<author lang="en">
+	<documents>
+		<document><![CDATA[Dear @shuque have you used getdns to send LOTS of dns queries? Testing 1.0.0 is giving me a core dumped]]></document>
+		<document><![CDATA[What about beer @jpmens @PowerDNS_Bert ?]]></document>
+		<document><![CDATA[@PowerDNS_Bert FYI we .NZ do post that kind of information as Open Data. And I understand @CENTRnews collects the same from its members]]></document>
+		<document><![CDATA[Geoff Huston from @apnic praises clueful ISP in NZ @SparkNZ @trustpower for doing DNSSEC validation for their customers #nznog17]]></document>
+		<document><![CDATA[@kamal_hothi Thanks. Hopefully you find someone suitable. I fit the description, but not looking for a permanent role.]]></document>
+		<document><![CDATA[Dear @kamal_hothi is that for a permanent role? Or temporary help?]]></document>
+		<document><![CDATA[@jpmens Routine checkup and maintenance? Some of the cyborg parts are squeaky? xD (All the best BTW)]]></document>
+		<document><![CDATA[Congrats to @caidaorg and Alistair King (a kiwi) for winning IETF’s Applied Network Research Prize 2017! #IETF #BGPStream]]></document>
+		<document><![CDATA[@bortzmeyer it seems they kind of reached a Plateau, no more growth. @RIPE_Atlas]]></document>
+		<document><![CDATA[@bortzmeyer search in some African country. Or Pacific Island. A RIPE Atlas probe?]]></document>
+		<document><![CDATA[Heads up @RIPE_Atlas Our research team just published this article using RIPE Atlas to detect resolver centricity https://t.co/inRkraSUc3]]></document>
+		<document><![CDATA[From our research team: DNS Resolver’s centricity experiment https://t.co/inRkraSUc3 by Jing Qiao #DNS]]></document>
+		<document><![CDATA[It’s just me or this statistics looks far better and clearer to understand with a bar chart? #dataviz https://t.co/ovC8I658Gf]]></document>
+		<document><![CDATA[@Cooperativa “Cannot load M3U8: cross domain access denied” :|]]></document>
+		<document><![CDATA[@jpmens Wunderlist, we have collaborative grocery shopping list with @LaGeekNZ in this household ;)]]></document>
+		<document><![CDATA[Happy New Year! #2017]]></document>
+		<document><![CDATA[How sweet is is that Vivian Peng @create_self made a presentation at #StrataHadoop and her parents where in the audience?]]></document>
+		<document><![CDATA[Quoting @create_self “Use emotions to provoke change” “Content we produce has the potential to force a decision” #StrataHadoop]]></document>
+		<document><![CDATA[Very inspiring presentation by @create_self at #StrataHadoop on Engage the feelings in Data Visualisation]]></document>
+		<document><![CDATA[The awesome @zelandiya presenting about Natural Language Understanding at #StrataHadoop #WomanWhoRock]]></document>
+		<document><![CDATA[Hey #DNS and #BigData peeps, check out Apache Spot for network security and anomaly detection! @Wulliak @marcodavids @PacketPusher]]></document>
+		<document><![CDATA[Ripping off a quote without acknowledging the author? Not good #StrataHadoop]]></document>
+		<document><![CDATA[Thanks heaps Fusionex and Microsoft for sponsoring today's reception #StrataHadoop https://t.co/Hf7omuiknr]]></document>
+		<document><![CDATA[I have a dream of a streaming architecture with CBOR + Kafka + Kudu + Impala + Kibana to replace DSC #DNS #BigData]]></document>
+		<document><![CDATA[Hey @Wulliak have you heard of Apache Kudu as storage engine for Hadoop? Seems a better fit for ENTRADA]]></document>
+		<document><![CDATA[The wireless network at #StrataHadoop is seriously struggling. The network resolver giving SERVFAIL error like it's Xmas.]]></document>
+		<document><![CDATA[Image Intelligence can help to detect "moments of consumption" by analyzing images streams in social media #StrataHadoop]]></document>
+		<document><![CDATA[From the Chernoff Faces, we have now the Chernoff Fish to visualize financial data #StrataHadoop]]></document>
+		<document><![CDATA[Really? Using Horoscope as description of personality? #StrataHadoop]]></document>
+		<document><![CDATA[@regnauld What’s the surprising part? Trump praising the Pakistani people, or Trump talks like a 5-year old?]]></document>
+		<document><![CDATA[Dear @pawal is there any documentation on migrating from DNSCheck to Zonemaster? #askingforafriend]]></document>
+		<document><![CDATA[Papatea Fault and Raised Coast https://t.co/X2IJ9PKHNd via @YouTube]]></document>
+		<document><![CDATA[@LlanOldDog What kind of motivation would have banks and financial orgs to participate? Technology is commodity for them.]]></document>
+		<document><![CDATA[What kind of enterprises @LlanOldDog ? There are some of them very much involved.]]></document>
+		<document><![CDATA[@bajpaivaibhav @kolkman @dan_wing NZRS makes available similar data for the .nz ccTLD https://t.co/kTmySKHJqW]]></document>
+		<document><![CDATA[@oerdnj we are all good, trying to resume activities today. But there are parts of the city affected, buildings damaged, etc.]]></document>
+		<document><![CDATA[Not a normal day today. Commuter train is empty, and it's a dark great sky pouring down on us.]]></document>
+		<document><![CDATA[This is going to be a long night #eqnz]]></document>
+		<document><![CDATA[Does anyone knows someone working for ImmigrationNZ? The Fee Calculator is broken at the moment #askingforafriend]]></document>
+		<document><![CDATA[Hey @dbhabuta what’s the tool you have used to analyse twitter activity during OARC in the past?]]></document>
+		<document><![CDATA[@oerdnj Well, it’s missing “back”, either upper or lower ;)]]></document>
+		<document><![CDATA[That’s a wrap. I’ve been happy to keep you inform using Tweeter. End of #RIPE73 looking forward for #RIPE74 in Budapest.]]></document>
+		<document><![CDATA[So phonetically @kolkman is represented “oh laugh coke man” #RIPE73]]></document>
+		<document><![CDATA[An average person says 200 words a minute, some RIPE Meetings can get to 300 words a minute #RIPE73]]></document>
+		<document><![CDATA[Stenography is done phonetically #RIPE73]]></document>
+		<document><![CDATA[Now at #RIPE73 the Stenographers tell us the magic behind the transcripts #RIPE73]]></document>
+		<document><![CDATA[OPINION: This RADAR tool from Orator seems to be a neat tool, but it seems to be hidden behind user logins, so I can’t test it #RIPE73]]></document>
+		<document><![CDATA[Global Looking Glass or BGP Graph for Humans by Evgeny Uskov  https://t.co/baxQzWikXE #RIPE73]]></document>
+		<document><![CDATA[Gabriel Lucas @gb_lucas presenting about https://t.co/KT2n8a7y0L https://t.co/cdrN1czHgj #RIPE73]]></document>
+		<document><![CDATA[Thanks @Ms_Multicolor but a 3-day trip for 2-days of work is hard to justify. It works for me when attached to RIPE meeting]]></document>
+		<document><![CDATA[Apologies I can’t tweet while presenting :D #RIPE73]]></document>
+		<document><![CDATA[Shane Kerr with “Domain like an egyptian” https://t.co/4AXlpb26wv #RIPE73]]></document>
+		<document><![CDATA[Jaap and Annand point out Zonemaster is a good tool but suffers from “dependencies from Hell”. They recommend to run in a container #RIPE73]]></document>
+		<document><![CDATA[Do you have a Jedi custom @bortzmeyer ? I have one, perhaps we should do a Photo Op about this xD]]></document>
+		<document><![CDATA[Zonemaster is a DNS delegation validation tool written by @AFNIC and @IIS https://t.co/4C0R85DJbE #RIPE73]]></document>
+		<document><![CDATA[Sandoche Balakrichenan from @AFNIC provides updates about Zonemaster https://t.co/qja5UK0HuL #RIPE73]]></document>
+		<document><![CDATA[From @OGudm the biggest threat to the DNS environment is the lack of diversity on the resolver side #RIPE73]]></document>
+		<document><![CDATA[Is the DNS ecosystem at the risk of mono culture? Perhaps a dual culture Open Source vs Closed Source for market differentiation? #RIPE73]]></document>
+		<document><![CDATA[With the consolidation of DNS services, access to APIs is the key: Provisioning APIs, stats API and management APIs #RIPE73]]></document>
+		<document><![CDATA[Runtime modifiers in the DNS causes server behaviour not to be explained simply by config file, but also by running config #RIPE73]]></document>
+		<document><![CDATA[DNS anycast is now staple, DDoS are routine, Static configurations disappear, in-line DNS tweaking are the norm #RIPE73]]></document>
+		<document><![CDATA[Once upon a time, “DNS was simple”. Now DNS is becoming problematic with increased cost of operation #RIPE73]]></document>
+		<document><![CDATA[DNS WG part 2 kicks off with "The Changing DNS Market - A Technical Perspective” by Johan Ihrén from @netnod https://t.co/jBgHQnfH4u #RIPE73]]></document>
+		<document><![CDATA[@kragen @fanf The time unit seems to be missing. Probably more details on the report (not the slides)]]></document>
+		<document><![CDATA[@jpmens I have learnt from the best, right @bortzmeyer ?]]></document>
+		<document><![CDATA[You know you are tweeting too much when 6/6 mentions at the DNS WG come from your account #RIPE73 https://t.co/1CbCoOL1I9]]></document>
+		<document><![CDATA[Did @PacketPusher established a color schema for Query Type distribution? Compare 2008 with 2016 #RIPE73 https://t.co/QwWTnXzV4z]]></document>
+		<document><![CDATA[Valid traffic per TLD at the root servers seems to follow a “golden ratio” of no more than 10 queries/domain #RIPE73 https://t.co/Tn33ZMSrA8]]></document>
+		<document><![CDATA[Back in 2008, the number of queries for invalid TLDs was 22% compared to 60% now. Methodology may differ https://t.co/Pod4BZRTqw #RIPE73]]></document>
+		<document><![CDATA[Nearly 60% of the queries at the root servers are for invalid TLDs. All the expense to respond to rubbish queries #RIPE73]]></document>
+		<document><![CDATA[The fraction of queries at the root servers for new gTLDs represents 0.40% of the total #RIPE73]]></document>
+		<document><![CDATA[The CDAR report https://t.co/JLYMP4Fien is really interesting. Plenty of data gems #RIPE73]]></document>
+		<document><![CDATA[Jaap Akkerhuis from @NLnetLabs presents “Continuous Data-driven Analysis of Root Stability Progress Report” https://t.co/JLYMP4Fien #RIPE73]]></document>
+		<document><![CDATA[The DNS firewall by Knot Resolver allows query rewrite, query drop, IP redirection, Query Mirroring and Query Forwarding #RIPE73]]></document>
+		<document><![CDATA[You can find a Knot Resolver testbed with Firewall capabilities at  https://t.co/VH91OhiHP5 #RIPE73]]></document>
+		<document><![CDATA["A DNS firewall - Powerful DNS Filtering in Knot Resolver” — Ondřej Surý @oerdnj from @CZ_NIC https://t.co/bcomcNwuDz #RIPE73]]></document>
+		<document><![CDATA[IP Topology Map is a work by @NZRS_Ltd mapping a country’s Internet. For #RIPE73 this is Spain’s map https://t.co/wEgEAQ9qcS]]></document>
+		<document><![CDATA[Dear @Ms_Multicolor the next RIPE Atlas Hackathon is not going to happen before the RIPE meeting? #RIPE73]]></document>
+		<document><![CDATA[RIPE NCC tested DNS servers, and NSD 4 was the best performer. The test was unable to fill up a 10 Gbps link. #RIPE73]]></document>
+		<document><![CDATA[WARNING: PokeMON is not a RIPE NCC Service #RIPE73]]></document>
+		<document><![CDATA[DomainMon is DNSMON little brother, which relies on @RIPE_Atlas probes and requires credits #RIPE73]]></document>
+		<document><![CDATA[DNSMON https://t.co/e0jxJluXpf is a DNS Monitoring System on top of @RIPE_Atlas regularly checking ccTLDs #RIPE73]]></document>
+		<document><![CDATA[RIPE NCC received three proposals for services, and the winner was @VERISIGN #RIPE73]]></document>
+		<document><![CDATA[RIPE NCC sent a request for proposal to get external DNS services that increase https://t.co/5y4kbtw93U zone resiliency #RIPE73]]></document>
+		<document><![CDATA[RIPE 663 reviews the ccTLD secondary service, for which 28 ccTLDs don’t qualify based on zone size #RIPE73]]></document>
+		<document><![CDATA[RIPE NCC runs an Authoritative DNS service for reverse zones, secondary for ccTLDs, other RIRs reverse zones and RIPE members zones #RIPE73]]></document>
+		<document><![CDATA[K-root uses a diversity of DNS software: BIND, Knot and NSD #RIPE73]]></document>
+		<document><![CDATA[K-root now has 44 active sites, 5 core and 39 hosted, running BIRD, Cisco, ExaBGP and Juniper for routing #RIPE73 #DNSWG]]></document>
+		<document><![CDATA[Anand Buddhdev @aabdnn with the RIPE NCC DNS Service update https://t.co/X1aQvMCzxG #RIPE73]]></document>
+		<document><![CDATA[Bird's Eye: A Simple Secure Micro Service for Querying Bird — Nick Hillard https://t.co/TvXiRtOxdz #RIPE73 #RIPEHackathon]]></document>
+		<document><![CDATA["Automated management of Continuous Integration Jobs" - Ondřej Surý @oerdnj from @CZ_NIC https://t.co/hWb04cDuPF #RIPE73]]></document>
+		<document><![CDATA[OPINION: It appears better use of the effort from @DECIX was to provide patches to BIRD instead of  a BGP PCAP Parser #RIPE73]]></document>
+		<document><![CDATA[@bajpaivaibhav if it makes feel better, I get confused by Indian all the time and asked for directions in Hindi ;)]]></document>
+		<document><![CDATA[Does BIRD support OpenBMP @CZ_NIC ? It seems there is a need to export BGP information easily from BIRD #RIPE73]]></document>
+		<document><![CDATA['PCAP BGP Parser" - Christoph Dietzel from @DECIX https://t.co/GJZXyU1BVr #RIPE73]]></document>
+		<document><![CDATA[Quick question @ripemeeting the pictures taken by the photographers, are being published somewhere? #RIPE73]]></document>
+		<document><![CDATA[So @RIPE_NCC has committed long term with the IETF with funding, for 10 years #RIPE73]]></document>
+		<document><![CDATA[.@rsedmonds They didn’t specify, but I’m sure @kistel knows which compression algorithm is using @RIPE_Atlas for the measurements]]></document>
+		<document><![CDATA[Speed check has their own measurement platform based on software #RIPE73 #MATWG]]></document>
+		<document><![CDATA[@awlnx Thanks :)]]></document>
+	</documents>
+</author>

@@ -1,0 +1,112 @@
+<author lang="en">
+	<documents>
+		<document><![CDATA[@hardmaru why non-convnet?]]></document>
+		<document><![CDATA[@quasimondo One nice things about VAE latent spaces is how smoothly interpolation works for animations.]]></document>
+		<document><![CDATA[@NandoDF Not sure you are sufficiently extrapolating, but I hope to god that our biggest worry in 10 months is how to handle NIPS attendance]]></document>
+		<document><![CDATA[@thinkmariya @durkking Thanks for the mention. The twitter bot is @smilevector]]></document>
+		<document><![CDATA[@Miles_Brundage His research group in the 90s was very original/influential. Curious if past students (eg: @erictfree) endorse in this role.]]></document>
+		<document><![CDATA[Do AI artworks alone in a museum get bored? @doppelcam's reinterpretation of my adjacent artwork at Jepson Center. https://t.co/VjpuDhR3aQ]]></document>
+		<document><![CDATA[@thespite @memotv ah sorry, I meant use @smilevector to reverse the sentiment so that she is smiling only after he turns away.]]></document>
+		<document><![CDATA[@thespite @memotv @smilevector it would be a fun project to try to  reverse the sequence.]]></document>
+		<document><![CDATA[@kastnerkyle thanks. no changes recently - it's been on autopilot since NIPS, though twitter update made all movies looping recently.]]></document>
+		<document><![CDATA[Pleased to be exhibiting new work at the Jepson Center for the Arts in Savannah, GA; running through March 26.… https://t.co/JkNWeJQSjB]]></document>
+		<document><![CDATA[@ogrisel more broadly: enabling more people through my work to better understand and reflect on these critical issues is in fact my plan.]]></document>
+		<document><![CDATA[@Tukr_ @golan @inconvergent @bitcraftlab Generally yes, but only a few primitives (line, circle). If you point me to sketch and happy to try]]></document>
+		<document><![CDATA[@Tukr_ @golan @inconvergent @bitcraftlab @pmawhorter I've also got a library that supports a small subset of processing an ipython notebook.]]></document>
+		<document><![CDATA[@dh7net This was made using CelebA dataset running on a lightly modified version of @dumoulinv's discgen project. https://t.co/xQtRbIiQDN]]></document>
+		<document><![CDATA[@ogrisel @liorshkiller @dumoulinv Each is a tiny patch of latent space. CelebA is biased, but my curation/cherry-pi… https://t.co/Jcu623B9AY]]></document>
+		<document><![CDATA[@ogrisel @liorshkiller @dumoulinv Goal: highlight the conceptual space built by the model. Yes, at best representative of the training data.]]></document>
+		<document><![CDATA[@porestar @fchollet @ogrisel With too few dimensions the model underfits and there won't be sufficient variety / distinctions in outputs.]]></document>
+		<document><![CDATA[@liorshkiller This uses CelebA dataset running on a tweaked version of @dumoulinv's discgen model: https://t.co/xQtRbIiQDN]]></document>
+		<document><![CDATA[@EldinhoC @Omair28Khan Not really: currently the SR step isn't making a huge difference. Here's the same grid strai… https://t.co/CABYJQOWEY]]></document>
+		<document><![CDATA[@Omair28Khan Thanks, still refining. for the record: this is a VAE reconstruction MINE grid + a thin schmear of adv… https://t.co/pHSP4EZP1V]]></document>
+		<document><![CDATA[@porestar Certainly a great idea. At this stage the scale variation is arbitrary.]]></document>
+		<document><![CDATA[@fchollet @ogrisel Just trial and error. In general, I dial down the latent space dimension until I can see reconstructions suffer.]]></document>
+		<document><![CDATA[@ogrisel No quantitative checks - but I don't think it is. Latent space is small (160 dim) and OOS reconstructions/interpolations look good.]]></document>
+		<document><![CDATA[@alexjc Thanks. Tweaked my CelebA based dataset and training a new model. The image I posted is cherry-picked.]]></document>
+		<document><![CDATA[neural face grids with variable scale https://t.co/qfftEoynaD]]></document>
+		<document><![CDATA[@dlowd @owasow what grade do you give someone who can't even plagiarize correctly? https://t.co/DnfCbbIG8K]]></document>
+		<document><![CDATA[@TM9000 @scottsantens That graph is from 2013. More recent advances in AI moved have moved most bars to the right - some more than others.]]></document>
+		<document><![CDATA[2016: So unbearable frogs everywhere became aware of their 40 years soaking in slowly heating water
+2017: Time to j… https://t.co/71ZS5R5Bp3]]></document>
+		<document><![CDATA[Generative neural nets are now doing de novo drug design; the same RNN/LSTM tech used for chatbots can also suggest… https://t.co/7EGct0TZ5p]]></document>
+		<document><![CDATA[@ch402 - have you seen this? designing molecules to fight malaria; includes well earned citation to your blog post. 
+https://t.co/npXGhQOgXS]]></document>
+		<document><![CDATA[We could write the software for VR today, we just need more computer power to make it believable. It will be availa… https://t.co/UnOdAWjMs7]]></document>
+		<document><![CDATA[@GretchenAMcC You want it to be one way.
+But it's the other way.]]></document>
+		<document><![CDATA[@francesvnz @OfficeChai correlation is not causation]]></document>
+		<document><![CDATA[@neurobongo Hyperface attacks ground, not figure. https://t.co/TJG18nPdpq]]></document>
+		<document><![CDATA[@neurobongo @adamhrv Well let's hope this project the starts arms race of SOTA digital camo. Also: someone please target license plate OCR.]]></document>
+		<document><![CDATA[@neurobongo Digital camo is an interesting idea &amp; @adamhrv knows his stuff- that OpenCV pattern is just a prototype. https://t.co/IB7zw5WMj6]]></document>
+		<document><![CDATA[@zachlieberman maybe an artifact of instagram cropping, but i really enjoyed when circled implied presence / motion of dancers off-screen.]]></document>
+		<document><![CDATA[@thomaslebas @nmoorenz Here's a favorite of mine, which lines up the antipodes and inverts europe instead of nz. https://t.co/CHSkJoU8KF]]></document>
+		<document><![CDATA[@d3noob @mbostock Aha - I forked this as a basis for this #d3js handwriting sketch using @hardmaru's RNN tutorial. https://t.co/ra9Y5W54So]]></document>
+		<document><![CDATA[@AlecRad @deanpomerleau hmm, that brownie is lacking icing or cherry, so i'm posit that the training was unsupervised...]]></document>
+		<document><![CDATA[@hardmaru Thanks, RNN was abstracted so well I hoped to encourage others to fork / modify / share. My own fumblings:
+https://t.co/CMEB5DsOCa]]></document>
+		<document><![CDATA[@inconvergent @bitcraftlab @pmawhorter Oops I was wrong: pyprocessing != processing.py, but it's been dead 4+ years. https://t.co/ctuU2Tv7Ub]]></document>
+		<document><![CDATA[@bitcraftlab @pmawhorter @inconvergent @Tukr_ @drawbotapp warning: pyprocessing doesn't do this.]]></document>
+		<document><![CDATA["latent space ... captures far more relationships in directions that we can’t even begin to imagine. And god knows… https://t.co/J9QUQQkQg8]]></document>
+		<document><![CDATA[@nelson not exactly - but i am using some very similar looking FACS-based face datasets like radboud:… https://t.co/t3xNLadwBT]]></document>
+		<document><![CDATA[@kcimc what are we looking at here?]]></document>
+		<document><![CDATA[@neurobongo Harvard’s Grading Rubric: "The B+ grade is reserved for students who have committed assault." https://t.co/aptYhsZ0FT]]></document>
+		<document><![CDATA[@Miles_Brundage @jackclarkSF @haldaume3 @geomblog Minsky was telling this story in his classes ~20 years ago. Possibly true but classified.]]></document>
+		<document><![CDATA[@jackclarkSF Karl Sims' side note of this concern in his SIGGRAPH '94 Evolved Virtual Creatures paper is a classic.… https://t.co/6nbbG5txCl]]></document>
+		<document><![CDATA[@hardmaru Seems unlikely programming will ever be a blue collar job; more likely white and increasingly chrome.  https://t.co/3HfBZFDzQM]]></document>
+		<document><![CDATA[Broken expectations while at Florence's Hotel California:
+1. Mirrors only on walls
+2. Bar has no champagne on ice
+3… https://t.co/QmItYGjzMN]]></document>
+		<document><![CDATA[Pleased to be exhibiting new work in Florence as part of the 2016 Generative Art  Conference. Open to the public to… https://t.co/r8XJ3GB4vy]]></document>
+		<document><![CDATA[My craziest week in 2016 was when I sold the family car, bought a Tesla GPU, and moved to New Zealand. But this week is running a close 2nd.]]></document>
+		<document><![CDATA[@fchollet even sooner if you are incarcerated.]]></document>
+		<document><![CDATA[@mark_riedl @jackclarkSF @ylecun is trying to keep others focused on important work of tackling unsupervised learni… https://t.co/6khBkxGPkp]]></document>
+		<document><![CDATA[@boredyannlecun @OpenAI @goodfellow_ian Yes. Perhaps obscured but valid point about AI community being made with this trolling @DhruvBatraDB]]></document>
+		<document><![CDATA[@samim @quasimondo ahh yes, how quickly i forget.]]></document>
+		<document><![CDATA[@quasimondo Excellent - the first (AFAIK) real-time streaming video of generative content created by a neural net is up and running.]]></document>
+		<document><![CDATA[@kcimc @soumithchintala (I think spherical interpolation in latent space make sense for same reason cosine distance does in word2vec space)]]></document>
+		<document><![CDATA[@kcimc @soumithchintala Many people find this unintuitive at first. There's a python experiment in original issue. https://t.co/KLR1xNuzft]]></document>
+		<document><![CDATA[@yigitdemirag @soumithchintala all random vectors are about the same length &amp; mean of two random vectors is extreme… https://t.co/LBhSnLcT1e]]></document>
+		<document><![CDATA[flattered @soumithchintala upgraded "github dcgan.torch issue #14" to "GAN hot tip #3" at #Nips2016 Workshop on Adv… https://t.co/WhnjKgqJ7w]]></document>
+		<document><![CDATA[If you're at #NIPS2016 I'm happy to share my experience using their linux dual GTX 1070 (!) laptop - just ask or DM https://t.co/7oD7nMQX8j]]></document>
+		<document><![CDATA[Thanks to @system76 my #Nips2016 demo had the most powerful deep learning laptop on earth: 3 DL models + 4 screens… https://t.co/eMXEiM7nUS]]></document>
+		<document><![CDATA[@AlecRad What are trade offs to the different approaches of adding encoders to GANS: ALI, BiGAN, iGAN, InfoGan(?), surrogates a la PixelCNN?]]></document>
+		<document><![CDATA[Honoured to get @NipsConference demonstration award notable mention! For those not at #NIPS2016, the event was pret… https://t.co/PDRstGVTZf]]></document>
+		<document><![CDATA[@Smerity @fchollet @benhamner Oh yeah, also the "smudges" - which are often bleed overs from adjacent digits.  https://t.co/yy0EPqlsOT]]></document>
+		<document><![CDATA[@Smerity @fchollet @benhamner Most surprising discovery: majority of test set comes from only 50 individuals. https://t.co/yBshgLip5z]]></document>
+		<document><![CDATA[@fchollet for a while investigating issues in MNIST as a dataset was a hobby of mine. perhaps i should collate those https://t.co/1ltnVNAnzu]]></document>
+		<document><![CDATA[@TarinZiyaee In the back left corner of the poster room. Demos have a different numbering scheme; I'm D1 and I think adjacent to poster 200.]]></document>
+		<document><![CDATA[my Sampling Generative Networks paper has been updated to cover some new material appearing in my #nips2016 demo.… https://t.co/FrGIy0CIvx]]></document>
+		<document><![CDATA[At #nips2016? Come see my poster + demo on latent space operations and say hi. Tonight 6-9:30pm. Protip: later is a… https://t.co/aCuLuMIXV4]]></document>
+		<document><![CDATA[12 hour jet-lag is really something. silver lining: to figure out what time it is back home I just toggle am/pm. #NIPS2016]]></document>
+		<document><![CDATA[@DeepSpiker TL;DR: hunches confirmed with math: VAE will underfit less + capture better/more modes of the training distribution than GAN (?)]]></document>
+		<document><![CDATA[@Miles_Brundage I'll be there demoing on Wed and rolling my eyes at anyone I hear complaining about how far they ha… https://t.co/4w0Hegb2a0]]></document>
+		<document><![CDATA[@trustswz @lucastheis Great stuff! Most @smilevector bugs are result of my current alignment/faceswap routine.
+https://t.co/Qh8OsF9s5F]]></document>
+		<document><![CDATA[@nicoptere wow, nice! also a jumbo version if you want to try a larger source image: https://t.co/ClrtYrjR5D]]></document>
+		<document><![CDATA[@memotv My understanding is copyright covers only the distribution of the works themselves (not consumption).]]></document>
+		<document><![CDATA[@mtraven hostile ai - now we're all soaking in it. https://t.co/34u5p8ayld]]></document>
+		<document><![CDATA[@ken_goldberg Hey Ken - did you see this one showing the quake uplift? Another amazing video from @gnsscience. https://t.co/6sbFrjavui]]></document>
+		<document><![CDATA[@peteskomoroch 100% yes. claiming one would have to know "the whole state of the world" to build a decent fake news classifier is absurd.]]></document>
+		<document><![CDATA[@inconvergent before / after. for someone who speaks the language, you seem to have a very human centered perspective on causality.]]></document>
+		<document><![CDATA[Experimenting with giving @smilevector an attribute vector for surprised 😲. https://t.co/u4W3rvL6UH https://t.co/x5ASUb6q6s]]></document>
+		<document><![CDATA[@NandoDF I'd argue "because it won't work" isn't the primary issue. It's horrific because it is immoral and proposing a future no one wants.]]></document>
+		<document><![CDATA[@goodfellow_ian 1. approaches for adding encoders to GANs 2. exploring properties of GAN latent spaces 3. metrics to watch when training GAN]]></document>
+		<document><![CDATA[before and after images from last @smilevector post https://t.co/J6pR2Nmh0D]]></document>
+		<document><![CDATA[@alexjc To clarify: my NeuralEnhance model doesn't try to enhance hair. VAE model face focus happens naturally w/ discrim. regularization.]]></document>
+		<document><![CDATA[@alexjc My model doesn't try to enhance hair since that is generally outside the swap area. But that would be an interesting experiment.]]></document>
+		<document><![CDATA[@alexjc Indeed, kate accidentally landed on william. here's kate's image pipeline: aligned -&gt; reconstruction -&gt; smi… https://t.co/YI2rW5uGyD]]></document>
+		<document><![CDATA[@mrtz @Smerity Smoking exists. That's fine. Just seat me in non-smoking. "Your Liberty To Swing Your Fist Ends Just Where My Nose Begins."]]></document>
+		<document><![CDATA[@mrtz @Smerity To complete the analogy: Little consolation that you are not smoking if FB has created a world of second-hand smoke.]]></document>
+		<document><![CDATA[@dribnet Anyone in ML: We must not become little Eichmanns - pls support each other with constructive dialogue. Now more important than ever]]></document>
+		<document><![CDATA[Applied Machine Learning at Facebook: A Report on the Banality of Evil https://t.co/m66lsxac1M]]></document>
+		<document><![CDATA[@VicUniWgtn @p5xjs @PikPokGames Sketch above is interactive - be sure to click &amp; type. More of Jackson's work here: https://t.co/oWQhXF4pHp]]></document>
+		<document><![CDATA[Congrats to my @VicUniWgtn student Jackson Preston: his @p5xjs origami typeface received @PikPokGames Design award! https://t.co/JPniL9GfDo]]></document>
+		<document><![CDATA[@ferrouswheel @alexjc I have a pull request that allows this by enabling arbitrary external seeds (could be mixture of jpgs)]]></document>
+		<document><![CDATA[@ryan_p_adams @A_Aspuru_Guzik Nice write up. Anyone happen to know if there is a dataset of SMILES strings vs solubility as article implies?]]></document>
+		<document><![CDATA[@mattsiegel @jackclarkSF maybe try: https://t.co/k0ZHEbIJGD]]></document>
+		<document><![CDATA[@mattsiegel no, provided you are also tangentially considering what it will mean when AI makes it as easy to produce content as consume it.]]></document>
+		<document><![CDATA[@overcomplete_ short sighted academics. A natural fit as cows already have four layers of stomach.]]></document>
+	</documents>
+</author>

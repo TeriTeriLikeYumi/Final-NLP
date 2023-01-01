@@ -1,0 +1,105 @@
+<author lang="en">
+	<documents>
+		<document><![CDATA[@imns81 Keep up the great work! Let me know if you ever feel like writing up an article about your experience with Feathers in production.]]></document>
+		<document><![CDATA[Today, Stand with Bandcamp in Support of Immigrants/Basic Human Values https://t.co/u3tNpRl3tX via @Bandcamp]]></document>
+		<document><![CDATA[Microsoft gives away 100,000 questions and answers to advance virtual assistants https://t.co/KQ7F6in9zz]]></document>
+		<document><![CDATA[Some great thoughts on why RethinkDB failed and the market of open source as a business: https://t.co/fF6G7xOKtS]]></document>
+		<document><![CDATA["... that we can provide services that maybe don’t have any commercial value but are going to be useful to people." https://t.co/Rc6R54I4Df]]></document>
+		<document><![CDATA[What's with all the 'female' virtual assistants?: Opinion https://t.co/60Yc0jdZje]]></document>
+		<document><![CDATA[Off to @seattlejs to talk about 10 years of building JavaScript applications!]]></document>
+		<document><![CDATA[Is FeathersJS production ready? https://t.co/QxmS8ryYMX]]></document>
+		<document><![CDATA[@Guamaso Being efficiently bureaucratic is definitely a thing.]]></document>
+		<document><![CDATA[“Future of APIs” by @zdne https://t.co/luqozTa0T2]]></document>
+		<document><![CDATA["To cancel your service, download this PDF, print and sign it and fax it back to us" - Sincerely, German technology company]]></document>
+		<document><![CDATA[@deaniusaur Good point. I think @feathersjs is the only framework that tries to apply the REST architecture paradigm to real-time as well.]]></document>
+		<document><![CDATA[Mr. Robot killed the Hollywood hacker - via @techreview https://t.co/hVPvBR7Pt2]]></document>
+		<document><![CDATA[@greenkeeperio Sounds good, we'll keep an eye on it then. Thank you!]]></document>
+		<document><![CDATA["A comprehensive guide on how to complain about open source software in an impactful way" by @thejameskyle https://t.co/rKAVBks673]]></document>
+		<document><![CDATA[@greenkeeperio Is there a way to enable Greenkeeper on https://t.co/NZYrrnv1g9 monorepos?]]></document>
+		<document><![CDATA[Fitbit is buying troubled smartwatch maker Pebble for around $40 million https://t.co/wGZtIhdcD1 via @techcrunch]]></document>
+		<document><![CDATA[@MHerszak Yep, the email showing at https://t.co/t96zpqrBFH]]></document>
+		<document><![CDATA[AI agents, a trillion-dollar company? https://t.co/jIZiqXCkYT Would the web be a trillion dollar company if it was proprietary?]]></document>
+		<document><![CDATA[Which full-stack developer are you? https://t.co/vVKSzFzcaQ]]></document>
+		<document><![CDATA[@Skiscoo1 Probably a better NginX (+ maybe Socket.io) question I am not too familiar with NginX.]]></document>
+		<document><![CDATA[I just published “Feathers application and error hooks” https://t.co/TYPCRQQiRU]]></document>
+		<document><![CDATA[Maybe HTTP request/response handling in general is the problem, not the language features used to do it? #koajs]]></document>
+		<document><![CDATA[The Cyberpunk Sensibility https://t.co/dFxFQn7cjL via @ribbonfarm]]></document>
+		<document><![CDATA[Nightmare Machine by MIT Media Lab https://t.co/wN9CeGAlkp]]></document>
+		<document><![CDATA[A decentralized web would give power back to the people online https://t.co/XkyV2dZv1q via @techcrunch]]></document>
+		<document><![CDATA[The problem with #GraphQL is that it pretends data *fetching* is the only thing that needs to be done in a structured way.]]></document>
+		<document><![CDATA["We aim to reliably invest our stack by virtually facilitating our next-generation customer-focused game changers." https://t.co/NfIExsA7KR]]></document>
+		<document><![CDATA[@estill01 I don't think you'd loose nested queries. W. GraphQL you'd loose real-time though. I don't think anybody got that working yet.]]></document>
+		<document><![CDATA[@estill01 Oh and there's also the https://t.co/tGak8kYdzB example @ekryski  made]]></document>
+		<document><![CDATA[@estill01 @ekryski With @apollostack there is https://t.co/56WSOfFbtC and a post at https://t.co/UmmV0jX8dN.]]></document>
+		<document><![CDATA[I just backed CommitStrip - Rise of the Coders: a Book about the Future on @Kickstarter https://t.co/X0xYPAwdqB]]></document>
+		<document><![CDATA[@marshallswain @m_mujica @betacar Or other remote services. I think the generator lets you pick your DB for every service you create already]]></document>
+		<document><![CDATA[The Extraordinary Link Between Deep Neural Networks and the Nature of the Universe https://t.co/ljg8vUl8Jq]]></document>
+		<document><![CDATA[@Wickity Can you send me what's at localhost:3030/trainings?]]></document>
+		<document><![CDATA[@Wickity Plugins might be a little tricky (you might have to adjust the folder where they are `npm link`ed into).]]></document>
+		<document><![CDATA[@Wickity The Gist should have the new UI right?]]></document>
+		<document><![CDATA[@Wickity Thanks for digging through! I'm working on a more solid release hopefully soon.]]></document>
+		<document><![CDATA[@Wickity https://t.co/R4o0nXVD6v should work now (tested with latest Node on Mac OS). Sorry if it's a little rough ;)]]></document>
+		<document><![CDATA[@Wickity Ah yes, that branch might be a little tricky to get running (the UI was linked locally). I'll try and get it working this weekend.]]></document>
+		<document><![CDATA[“Everybody who tries something seems to get things to work beyond what they expected” https://t.co/rH6NBiVOD8 via @mappingbabel]]></document>
+		<document><![CDATA[@kristjanmik Absolutely! You guys did a fantastic job! I'll be back for sure.]]></document>
+		<document><![CDATA[@modernserf Thank you! Skimmed through and will read it all on the flight back. Hopefully get to write up some thoughts about it all, too.]]></document>
+		<document><![CDATA[@bredeleca Seem to perform better with larger datasets but I always wanted to make a side-by-side comparison to get a better idea.]]></document>
+		<document><![CDATA[So this happened today. @chromakode, Sam apologizes. It was apparently just as nervous as me. https://t.co/QfrcgAXG8v]]></document>
+		<document><![CDATA[You can find today's slides at: https://t.co/POff9p2sAn]]></document>
+		<document><![CDATA[It looks fantastic! Very exciting. https://t.co/oLuRaYzl5t]]></document>
+		<document><![CDATA[@cg_marcato It is a customer-focused enterprise warhammer efficiently synergizing an end-to-end hardware solution.]]></document>
+		<document><![CDATA[. @Cherif_b To me "complex enterprise applications" just means someone is making things more complicated than they are.]]></document>
+		<document><![CDATA[@Cherif_b Obviously I am biased but the service layer + AOP approach of https://t.co/z6Q4NO75Pd is usually all I need.]]></document>
+		<document><![CDATA[@Cherif_b What are you looking for?]]></document>
+		<document><![CDATA[@Cherif_b It's the API part from https://t.co/8u3iQZ1fhR]]></document>
+		<document><![CDATA[I think I accidentally made a Paranoid Android. Time to refactor https://t.co/DOquwXHz9N]]></document>
+		<document><![CDATA[@PearlChen @melsariffodeen +1! Love their Doughnouts! Also, https://t.co/UJ9dXdFQ15 for Sushi (it's pretty close :)]]></document>
+		<document><![CDATA[Got my @ShortcutLabs #Flic last week. Exactly what I was looking for. https://t.co/QBcOFdfLaA #mysam]]></document>
+		<document><![CDATA[@tryxell @ekryski Made a new release (https://t.co/9UPB7TBK7g). We'll pull those hooks out into their own repo soon, too.]]></document>
+		<document><![CDATA[Calling switch/case statements "functional programming" doesn't really make them any better...]]></document>
+		<document><![CDATA[How AI based programming
+could work - https://t.co/C8bKXkU4Vc]]></document>
+		<document><![CDATA[@simon_skiscool You can get in touch with the team at https://t.co/PkF43RDvDW]]></document>
+		<document><![CDATA[@adunkman @julia_allyce Sorry, https://t.co/xQg6OhpgAx it is.]]></document>
+		<document><![CDATA[@julia_allyce @adunkman I can definitely recommended https://t.co/RUFL7FgpFU though]]></document>
+		<document><![CDATA[@julia_allyce @adunkman I totally would've but I'm out of town this week]]></document>
+		<document><![CDATA[@drewpotential You in town?]]></document>
+		<document><![CDATA[Finally finished a cut of MySam's new tagging module: https://t.co/M2IQA4AuaU]]></document>
+		<document><![CDATA[Just released a #nodejs module for dependency injection via JSON files https://t.co/b7ag0R26Ci]]></document>
+		<document><![CDATA[A great show and its best season comes to an end :( https://t.co/GjBuI0Bizp]]></document>
+		<document><![CDATA[Enjoying #monday #summersolstice https://t.co/soCpSazFNe]]></document>
+		<document><![CDATA["The internet typically rewards speed over all else, a quality at odds with deliberative thought" https://t.co/5ulyyldk58]]></document>
+		<document><![CDATA["When humanoids invented language, they could not see that world after language." https://t.co/I4zJcqGufW]]></document>
+		<document><![CDATA[I just published “Using FeathersJS to make your existing API real-time” https://t.co/qCWQ1FZRrB Thanks to @ekryski]]></document>
+		<document><![CDATA[“Hybrid Intelligence: How Artificial Assistants Work” by @clarecorthell https://t.co/bCdJB7CjXN]]></document>
+		<document><![CDATA[The Internet of Things: A revolution https://t.co/dm1mVVzzKS]]></document>
+		<document><![CDATA[I just backed Pebble 2, Time 2 + All-New Pebble Core on @Kickstarter https://t.co/OwVGvQMmcI]]></document>
+		<document><![CDATA[The code will become less important than the data we use to train it https://t.co/mwULDuB26i via @WIRED]]></document>
+		<document><![CDATA[Watch "RISE" on @Vimeo https://t.co/TMm07b6Y9W]]></document>
+		<document><![CDATA[TV stations are incredibly inventive when it comes to screwing Canadians. Today @cbs (after signup w. that info btw) https://t.co/SC7ZjgmO8E]]></document>
+		<document><![CDATA["Once again, fragmentation and walled gardens sour the sweetness of innovation." https://t.co/yKs1ag6GUB by @sawaba]]></document>
+		<document><![CDATA[can-zone by @matthewcp https://t.co/AgUAyoKQzL]]></document>
+		<document><![CDATA[@cg_marcato Very pleasant indeed. Lots of tourists came through already so I didn't  have to worry at all about getting eaten.]]></document>
+		<document><![CDATA[@cg_marcato She told me to say hi https://t.co/EvMzigCieL]]></document>
+		<document><![CDATA[Born for it ➙ https://t.co/KjggCUNG8E]]></document>
+		<document><![CDATA[The Untold Story of Magic Leap, the World’s Most Secretive Startup https://t.co/ZmlX5d9ky1 via @WIRED]]></document>
+		<document><![CDATA[The Humans Hiding Behind the Chatbots https://t.co/5aEzitSl9j via @technology]]></document>
+		<document><![CDATA[IRC for Hipsters: Building bots for proprietary chat services]]></document>
+		<document><![CDATA[Human mind excels at quantum-physics computer game : Nature News &amp; Comment https://t.co/TexgKtUszI via @NatureNews]]></document>
+		<document><![CDATA[Meanwhile, in a parallel universe… https://t.co/1kr8A1zxCt]]></document>
+		<document><![CDATA[“We don’t know how to build conversational software yet” by @alanmnichol https://t.co/NySHFflVd1]]></document>
+		<document><![CDATA[If you're curious. Here's the story how and why @ekryski and I built @feathersjs: https://t.co/QUklt7I4nj]]></document>
+		<document><![CDATA[Still two weeks until Silicon Valley season 3 but reality already caught up. https://t.co/IZv4MOkECM]]></document>
+		<document><![CDATA[“What’s New With Feathers: Issue #1” by @ekryski https://t.co/sV7rX4cI4Z]]></document>
+		<document><![CDATA[@captainsafia Looks like it has all the content though, just missing the frontpage and final graphic colours.]]></document>
+		<document><![CDATA[@captainsafia Looks like I didn't push the final final version. Have to look through my archives and see if I can find it again.]]></document>
+		<document><![CDATA[@captainsafia @feathersjs Made it public at https://t.co/muj4zZkjv1. The out/ folder has a PDF version.]]></document>
+		<document><![CDATA[@captainsafia @feathersjs It is in German but I can make it available. We tried to have all the important info in the docs, too.]]></document>
+		<document><![CDATA[@_benstr @joshowens @thespacedojo @ekryski @feathersjs I'm honestly surprised. Let's hope we don't disappoint ;)]]></document>
+		<document><![CDATA[This was great! Thanks again for having us :) https://t.co/p6Y56mNq9B]]></document>
+		<document><![CDATA[@filesofnerds Thanks for the share. I just realized that I probably should update the code to version 2 :)]]></document>
+		<document><![CDATA[@sbellware @ekryski Sounds good. Is Google Hangouts ok? We are on mountain and pacific time.]]></document>
+		<document><![CDATA[@sbellware Care to elaborate outside of 140 characters? I wrote my thesis on SOA in 2010 and Feathers is basically a distilled version of it]]></document>
+		<document><![CDATA[@bredeleca @yycjs @ekryski We were just spoiled by @assemblycs ;)]]></document>
+	</documents>
+</author>

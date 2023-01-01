@@ -1,0 +1,104 @@
+<author lang="en">
+	<documents>
+		<document><![CDATA[@davkean @github I should :). I mentioned it on the one I filed the other day]]></document>
+		<document><![CDATA[@davkean this doesn't seem to work with multi-targeting]]></document>
+		<document><![CDATA[Transient integration test failures scare me more than snakes and spiders]]></document>
+		<document><![CDATA[Blogged: Using @OctopusDeploy machine policies to monitor server certificate expiry via PowerShell - https://t.co/d3UuhsYCfV]]></document>
+		<document><![CDATA[@j0hnstew @TheLarkInn I'm using Typescript so not so good it, presumably tree shaking is still worthwhile for bundl… https://t.co/o2k3tvNETU]]></document>
+		<document><![CDATA[@j0hnstew @TheLarkInn @Medium Does tree shaking detect unused functions that are not exports? For example, a function of an exported class.]]></document>
+		<document><![CDATA[@MariamVeiszadeh probably because white mass murders are the norm.]]></document>
+		<document><![CDATA[Blogged: First attempt at getting a @letsencrypt certificate to run @OctopusDeploy server with DNS validation - https://t.co/emz7r5d4cz]]></document>
+		<document><![CDATA[@dshaw_ @hacks4pancakes if you want a cyber security expert, hire a hacker, not a politician.]]></document>
+		<document><![CDATA[@JakeGinnivan @SimonCropp I've tried to remain both factual and supportive of GitVersionTask. Send me a PR if you don't like the wording.]]></document>
+		<document><![CDATA[@JakeGinnivan @SimonCropp FYI, I posted a workaround to my GitVersionTask perf issues at https://t.co/85dJzf3gx6]]></document>
+		<document><![CDATA[Just blogged; GitVersionTask performance workaround - https://t.co/85dJzf3gx6]]></document>
+		<document><![CDATA[@davkean @dsplaisted Perhaps 1.2 isn't installed??? Trying to find that on disk somewhere]]></document>
+		<document><![CDATA[@davkean @dsplaisted Build log starts failing at the highlighted line https://t.co/OSwGHeXIAN]]></document>
+		<document><![CDATA[@davkean @dsplaisted I created a new .core library and included netstandard1.2. Compile fails. Where am I going wro… https://t.co/knpyx21qmL]]></document>
+		<document><![CDATA[I'm struggling to keep up on my twitter feed . Current events are so heartbreaking.]]></document>
+		<document><![CDATA[@RickStrahl as an alternative, I like greenshot as my screen/window/region capture tool]]></document>
+		<document><![CDATA[@TheLarkInn npm still has webpack at 1.14. Is it going to be updated to 2.2 sometime soon?]]></document>
+		<document><![CDATA[New @OctopusDeploy suggestion, get OD server to update it's own hosting certiifcate via @letsencrypt - https://t.co/P86AcCcnjk]]></document>
+		<document><![CDATA[. @j4cob Question posted at https://t.co/cFpR0U2Gq7 regarding DV for @OctopusDeploy and @letsencrypt]]></document>
+		<document><![CDATA[@Squire_Matt As expected, our DNS provider (which I don't control) is from the stone ages and doesn't support an API.]]></document>
+		<document><![CDATA[I've seen this a bit. If you use a Corp machine, check for packet sniffing via Corp certificate chains. https://t.co/j9IYpXZiVM]]></document>
+		<document><![CDATA[@Squire_Matt I'm not sure that our dns provider has api support. Definitely something I will look into.]]></document>
+		<document><![CDATA[@mj_richardson_ @github I don't think it will work as @OctopusDeploy is hosted on that domain. The OD server would… https://t.co/9M8BjL82uy]]></document>
+		<document><![CDATA[I've got steps in @OctopusDeploy to support DNS DV, but if I've got to manually do the DNS/3mths, there's no point automating the certs.]]></document>
+		<document><![CDATA[I'm trying to combine @letsencrypt with @OctopusDeploy, Can't do http domain validation nor DNS changes via automation. I'm blocked right?]]></document>
+		<document><![CDATA[@youhanaNaseim @tfsbuck Thanks, putting it together now.]]></document>
+		<document><![CDATA[@tfsbuck We are having lots of builds expire and the policy is to rebuild when target branch changes. We don't understand why they expire]]></document>
+		<document><![CDATA[@tfsbuck Yep, read that one. It doesn't cover why it expires. Also the policy indicates a new build would trigger on target branch change]]></document>
+		<document><![CDATA[@tfsbuck Hi Buck, is there any doco that explains when/why a VSTS PR expires its build? I can't find any.]]></document>
+		<document><![CDATA[. @ActewAGLAssist Power is also out in McKellar]]></document>
+		<document><![CDATA[Wow. It's like a train rushing past. https://t.co/qkqsS5C2zO]]></document>
+		<document><![CDATA[@troyhunt Do you think SRI is valid against scripts loaded from the same host as the website? Less risk of source tampering, but in transit?]]></document>
+		<document><![CDATA[Just blogged: Starting with module loading - https://t.co/Y9th41mFED CC @TheLarkInn]]></document>
+		<document><![CDATA[@paulstovell if it is a new web framework + build pipeline then more like days.]]></document>
+		<document><![CDATA[@getsentry Your RSS feed is putting out the wrong uri for blog posts. Need to remove the /blog segment.]]></document>
+		<document><![CDATA[@SaraSoueidan hmmm, I think this needs more than 140]]></document>
+		<document><![CDATA[@UXNoah @Medium I'm picking up @vuejs instead of @angularjs v2. I'm liking that, for the most part, it gets out of my way.]]></document>
+		<document><![CDATA[Hey @Cloudflare, any plans on automating CAA records for the sites you manage DNS and certificates for?]]></document>
+		<document><![CDATA[The context here is that I also use the same package.json for a @nodejs server which must bundle the node_modules directory for production.]]></document>
+		<document><![CDATA[Why put a front-end dependency from npm in dependencies instead of devDependencies if webpack is going to compile it into the package?]]></document>
+		<document><![CDATA[@TheLarkInn @drosenwasser I'm happy to contribute to that.]]></document>
+		<document><![CDATA[@TheLarkInn @drosenwasser Thank you so much. That worked. That saved me wasting another 4 hours of random key bashing :)]]></document>
+		<document><![CDATA[@TheLarkInn I doubt this is an issue with Webpack, but could you provide some thoughts if you have a minute? - https://t.co/7TcojsQtW3]]></document>
+		<document><![CDATA[@JakeGinnivan I went local on my latest repo because I want other people to use it with limited hurdles.]]></document>
+		<document><![CDATA[I'm really liking @vuejs with @typescriptlang, webpack, commonjs and jasmine. It's all coming together nicely.]]></document>
+		<document><![CDATA[Just saw a cockroach crawling through the cutlery drawer at the holiday rental. I can't unsee that.]]></document>
+		<document><![CDATA[@terrajobst sad that her identity is only relative to her husband.]]></document>
+		<document><![CDATA[That's the end of side A, flip it over and press play. https://t.co/tL0plPGWhB]]></document>
+		<document><![CDATA[@Greeners81 on the glass bottle with cream at the top. I also remember people not liking to move to plastic bottles.]]></document>
+		<document><![CDATA[It's so much better now that milk bottles have twist top lids. https://t.co/tL0plPYx99]]></document>
+		<document><![CDATA[Perhaps @starwars should write into IX that the general died in the same way as Carrie Fisher. No need to make her absence more damatic]]></document>
+		<document><![CDATA[All these cool libraries I want to use but they depend on jQuery. That's a whole lot of nope.]]></document>
+		<document><![CDATA[@TheLarkInn alias also looks like a clean option - https://t.co/soYwIINWKn]]></document>
+		<document><![CDATA[@TheLarkInn You sir are a legend. I think that is what I'm after. I'll give it a bash.]]></document>
+		<document><![CDATA[@TheLarkInn I'm trying to support multiple configs, but avoid the SPA knowing what config it is actually running. So no server logic in play]]></document>
+		<document><![CDATA[@TheLarkInn I want something like require("./" + config.environment + ".json") where environment is passed from webpack config]]></document>
+		<document><![CDATA[Anyone have pointers for getting webpack to compile json into config code as part compiling a @typescriptlang app?]]></document>
+		<document><![CDATA[@hexsteph ha, I hiked up that hill on the right. Took ages. Very beautiful.]]></document>
+		<document><![CDATA[@hollylawly squash commits cover those sins a lot]]></document>
+		<document><![CDATA[@shanselman that happened to two of mine. I'm really happy with Garmin vivo hr now. Not as polished in ui but far h… https://t.co/aGnvWzyXbf]]></document>
+		<document><![CDATA[@davkean damn, that's not cool at all]]></document>
+		<document><![CDATA[@jonskeet wouldn't it be better to not support it? I would think it most likely to be a coding mistake that implicit conversion would hide.]]></document>
+		<document><![CDATA[@jasonimms oh no, we are so over them. It just doesn't stop.]]></document>
+		<document><![CDATA[@jasonimms does that make it not worthwhile?]]></document>
+		<document><![CDATA[@jasonimms while you're on the topic, what about Disney infinity?]]></document>
+		<document><![CDATA[Trying to wrangle TypeScript, Vuejs and Webpack to work together the way I want them to. I think I can, I think I can...]]></document>
+		<document><![CDATA[@JamesNK not for xmldoc intellisense and it is up to your doc compiler to use it]]></document>
+		<document><![CDATA[Just release ModelBuilder 3.0. Now matches constructor params to properties to save them. https://t.co/EM9zIozcvc]]></document>
+		<document><![CDATA[Come on @abcnews Get your act together. #Security #Integrity #Fail https://t.co/biO1OWoRWY]]></document>
+		<document><![CDATA[@TheLarkInn Thanks Sean. I read that you need something to action the notification so I think it is kind of working. A bit more work to go.]]></document>
+		<document><![CDATA[@Eve_Beauregard in contrast, kids had me awake at 6]]></document>
+		<document><![CDATA[I tried hot reloading via webpack, and failed :(]]></document>
+		<document><![CDATA[@shanselman Australian version is “go talk to this person “]]></document>
+		<document><![CDATA[@trutriciahelfer @Apple when you get it sorted out, turn on two/multi-factor authentication. It will save you next… https://t.co/M2bdE1mOWI]]></document>
+		<document><![CDATA[@AusRob I was there :)]]></document>
+		<document><![CDATA[@Eve_Beauregard “No, I don't” is my favourite line from Shepard Book. Simple and showed great depth of character.]]></document>
+		<document><![CDATA[We need a refund on 2016. This year sucks. https://t.co/fkhtMcmAr7]]></document>
+		<document><![CDATA[One of my @VisualStudio pet peeves - https://t.co/oGsAKOb82p]]></document>
+		<document><![CDATA[@AppInsights Is there a way to have the UserAgent populated on HttpClient dependency calls? I want to filter outbound calls from my agent.]]></document>
+		<document><![CDATA[@AusRob do you mean with the drop folder? It supports server drop but not using source control.]]></document>
+		<document><![CDATA[Learning webpack. Going down the rabbit hole.]]></document>
+		<document><![CDATA[. @NBN_Australia @elonmusk And we would have achieved faster internet earlier rather than a 10yr+ rollout of cable #BigFail #ThinkDifferent]]></document>
+		<document><![CDATA[The Aust Govt spends $20B on @NBN_Australia. We should have consulted @elonmusk first and owned global net for $10B https://t.co/ZEhHElz7oU]]></document>
+		<document><![CDATA[@SimonCropp @paulstovell search engines have removed the point of tags for me]]></document>
+		<document><![CDATA[@IrisClasson mine is at https://t.co/ysUmQOtJfJ]]></document>
+		<document><![CDATA[Just released ModelBuilder 2.0.0 to fix a BuildLog threading issue. https://t.co/8Aai93vDOL Breaking change only for custom build pipelines.]]></document>
+		<document><![CDATA[If your rant or complaint contains “but”, think twice about the quality of your message.]]></document>
+		<document><![CDATA[@traskjd or your Canberra office? :)]]></document>
+		<document><![CDATA[Anyone know how to get IPrincipal in a OWIN based web api deep in the call stack (not in the ApiController)? #aspnet]]></document>
+		<document><![CDATA[Found a friend on my ride https://t.co/hZuPFAjKLP]]></document>
+		<document><![CDATA[@Emre_C_Deniz I have the answer for that. Don't work Monday's :)]]></document>
+		<document><![CDATA[@davkean @terrajobst lol, you might have to resort to a camera store]]></document>
+		<document><![CDATA[Published a patch of ModelBuilder (1.0.1) to NuGet to fix DateTime boundary failures. https://t.co/K8jClYsi1c]]></document>
+		<document><![CDATA[Good news, @LastPass is now free for multi-device https://t.co/YG0OYslmBV]]></document>
+		<document><![CDATA[And they want my credit card https://t.co/njZkurQysV]]></document>
+		<document><![CDATA[Sigh https://t.co/iHui1XJyad]]></document>
+		<document><![CDATA[@ameyergleaves @AutofacIoC Presumably Autofac.Extras.DynamicProxy replaces it?]]></document>
+		<document><![CDATA[@ameyergleaves Any plans on updating Autofac.Extras.DynamicProxy2 to support @AutofacIoC 4.1.1?]]></document>
+		<document><![CDATA[@tfsbuck I've just blogged my PowerShell to get this to work https://t.co/96KaJHXrna]]></document>
+	</documents>
+</author>

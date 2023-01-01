@@ -1,0 +1,105 @@
+<author lang="en">
+	<documents>
+		<document><![CDATA[@danwaters @migueldeicaza Xamarin Evolve: Down Under would be a most excellent thing. Planning should start immediately. :)]]></document>
+		<document><![CDATA[@reubenbond I can't fooking wait until this or Amazon.]]></document>
+		<document><![CDATA[@terrajobst @paulcbetts @onovotny @ziki_cz @ben_a_adams @blowdart I support this proposal.]]></document>
+		<document><![CDATA[@paulcbetts cool story bro. Can you point me in the direction to some whitepapers? K thx.]]></document>
+		<document><![CDATA[@Cheesebaron @stuebe2k14 ugh people do, seriously. It's the Bathurst 1000. https://t.co/nZy5ymDxdn]]></document>
+		<document><![CDATA[@Cheesebaron @stuebe2k14 not completely banned just restricted to 24 cans per day per person. https://t.co/b09li1MPWT]]></document>
+		<document><![CDATA[@Cheesebaron @stuebe2k14 bringing in alcohol is banned. So what do Aussies do? Couple weeks before. Burry it. Dig it out. Drink.]]></document>
+		<document><![CDATA[@Cheesebaron oh the irony. I have to VPN to outside of Australia to watch something happening in Australia. https://t.co/mp0dXUsu8P]]></document>
+		<document><![CDATA[@kathikcouk @997unix deploy somewhere, automatically. Doesn't have to be production direct to users (though that's where the most value is)]]></document>
+		<document><![CDATA[@rid00z @NBN_Australia check out their Instagram account. They have lost the plot.]]></document>
+		<document><![CDATA[Cake.AppleSimulator v0.1.0 has been released; https://t.co/6wOmrtJuw3 - see https://t.co/Z2tIJvrktP for backstory. #xamarin]]></document>
+		<document><![CDATA[@redth that would be would be super awesome - start with OSX first then xplat (no hyperv)  - METHODS: start, install, launch, stop]]></document>
+		<document><![CDATA[@redth @github oh I see https://t.co/vR6kJ2bRZl Keep it as is. Nobody got time for that junk. Dev's already accepted the lic as part of dev.]]></document>
+		<document><![CDATA[@redth Cake.AppleSimulator is production ready - see https://t.co/UhiBmNHW1O for some bleeding edge innovation with it.]]></document>
+		<document><![CDATA[@redth looks like license acceptance is WIP - was thinking to do this outside of cake via https://t.co/0RgyhGv0HV as a bootstrap.sh]]></document>
+		<document><![CDATA[@redth integration testing/running platform unit tests as part of cake is now closer reality. AppVeyor for build, Bitrise for CI (simulator)]]></document>
+		<document><![CDATA[@redth iOS is solved + working, android (free) needs solving. This landed the other day https://t.co/ybAABA6kHQ which means CI (as in /1...]]></document>
+		<document><![CDATA[About time. Thanks @nuget.  https://t.co/1lMtS4BuSA]]></document>
+		<document><![CDATA[:party: https://t.co/jPVqKrOziK :party:]]></document>
+		<document><![CDATA[@SimonCropp thanks for the offer; sending in PR now. Super handy to have signature level verification. Especially w… https://t.co/GoSLIHqrNc]]></document>
+		<document><![CDATA[@redth cake.genymotion works well for simulators but the licensing activation situation is _really_ incompatible with CI/box that get wiped.]]></document>
+		<document><![CDATA[Yo @redth. Whatcha doing with this/how did it come into existence? https://t.co/cch0x8p2YI I'm still hunting for si… https://t.co/JbfdICC1BT]]></document>
+		<document><![CDATA[@SimonCropp brb stealing this!!!]]></document>
+		<document><![CDATA[@SimonCropp @terrajobst @github thanks!]]></document>
+		<document><![CDATA[@ladyleet @BenLesh where's the hat?]]></document>
+		<document><![CDATA[@Chris_Sewell side by side install with VS15 and Xamarin highly not advisable. Only safe if you remain alpha channel but VS15 will be broke.]]></document>
+		<document><![CDATA[@terrajobst hey duders; are you aware of any tooling to automatically create a dotnet diff of public API contracts? Would be a nifty PR bot.]]></document>
+		<document><![CDATA[@KrauseFx @playgroundscon @tryswiftconf I would like to watch the shit out of this talk. If you need a reviewer DM. Going through this ATM.]]></document>
+		<document><![CDATA[Dear @zapier. I am in love. Like most couples, I share a calendar. This zap communicates what I'm doing and my comm… https://t.co/RoCUuG2soi]]></document>
+		<document><![CDATA[@JackUkleja yuuuppp; direct to consumer is dead, B2B/B2E/B2C still alive. Progressive web-apps might be the future for direct to consumer.]]></document>
+		<document><![CDATA[@daveaglick @dotnetfringe are you going to train it from Seattle?]]></document>
+		<document><![CDATA[@ladyleet little bit jelly right now.]]></document>
+		<document><![CDATA[@daveaglick when is @dotnetfringe ? Whats the dates. It's on my to-do for this year for sure.]]></document>
+		<document><![CDATA[@coolcsh had a serious look into supporting Tizen. Blocked by https://t.co/797GSdG7r5 - can't target platform with nuget.]]></document>
+		<document><![CDATA[@redth @kent_boogaart you should speak with @James_M_South and use his library @redth.]]></document>
+		<document><![CDATA[@ThomasBurkhartB @mhvdijk I'll trade my knowledge for that PR to the docs :p]]></document>
+		<document><![CDATA[@GeoffreyHuntley @mhvdijk so from a framework perspective, no need to install the SDK on CI host and/or contributors PCs. Not a burden. #yes]]></document>
+		<document><![CDATA[@mhvdijk @TizenProject No reference assemblies installed into usual place; instead 
+https://t.co/njX8oR75sM &amp; https://t.co/PcZLNbtkRQ]]></document>
+		<document><![CDATA[@mhvdijk @TizenProject @MvvmCross :boom: https://t.co/797GSdG7r5 :boom: - blocked, hardcore.]]></document>
+		<document><![CDATA[@martinwoodward re: tizen - looks like it's not possible to target the platform as a library author at the moment. https://t.co/797GSdG7r5]]></document>
+		<document><![CDATA[@ethomson @VSTeam insanely cool. Nice.]]></document>
+		<document><![CDATA[@BerayBentesen DM? Interested in hearing your thoughts. Just installed the SDK and have had thoughts about adding it as a platform.]]></document>
+		<document><![CDATA[Any #xamarin developers tried out @TizenProject yet?]]></document>
+		<document><![CDATA[@jaredpar highly recommend checking out how phrabicator does project mgmt with git. It rocks.]]></document>
+		<document><![CDATA[@jaredpar generating release notes automatically. That's all they are good for. One label per platform.]]></document>
+		<document><![CDATA[@ajpinedam twitter DM me your email address and it's yours. I'll send a slack invite.]]></document>
+		<document><![CDATA[@Philco78 @slace piracy. Though less of a thing now because of torrents, RAR === extracting scene releases.]]></document>
+		<document><![CDATA[Yo @yourfirstpr. We have an opportunity for someone in the @dotnet community who hasn't sent in a PR before. https://t.co/RGrto9Rd0S]]></document>
+		<document><![CDATA[@davkean where's the title field? (Not trolling; it's just missing)]]></document>
+		<document><![CDATA[@marcgravell reinstalled laptop the other night cause vs 17 broke so badly. Now only recommend using it in a VM with rollback. #xamarin]]></document>
+		<document><![CDATA[@reubenbond @Merrion what he said. Welcome.]]></document>
+		<document><![CDATA[Yo @gitlabstatus. Look after YP eh? Send him/her hugs. It's a rough situation; counciling (as in emotional) may be needed. Nightmare stuff.]]></document>
+		<document><![CDATA[@reubenbond @kogir ugh. Yeah. There's a void for creators like you and me. Twitter is a partial solution.]]></document>
+		<document><![CDATA[@reubenbond @kjacobsen yup. There's someone working on one for dotnet core. I would love to see this concept expand.]]></document>
+		<document><![CDATA[@JackUkleja @github send flowers to @_andrewb]]></document>
+		<document><![CDATA[@AmpYost welcome to twitter. Are you still doing Xamarin dev? There's now a Perth meetup run by @MZaatar]]></document>
+		<document><![CDATA[@blowdart start traveling with burner laptops?]]></document>
+		<document><![CDATA[@allanritchie911 yuupp. Are you consuming or producing?]]></document>
+		<document><![CDATA[@JackUkleja email ghuntley@ghuntley.com  with "yo slack me k thx bi" and I'll send the invite.]]></document>
+		<document><![CDATA[@natfriedman @patrickc isn't that a 4 x match because of msft's matching policy?]]></document>
+		<document><![CDATA[@robdmoore @James_M_South I organised babysitting wtih @nymewhay on Saturday to take another stab at converting. #failed]]></document>
+		<document><![CDATA[@James_M_South @robdmoore we need to compare notes.]]></document>
+		<document><![CDATA[@Nick_Craver wonder if they have a deploy freeze right now....]]></document>
+		<document><![CDATA[Meanwhile in Australia https://t.co/5c97Taiy17]]></document>
+		<document><![CDATA[@paulcbetts @marcgravell after pissing way an entire day on netstandard. I'm starting to agree re: 4.6.x or 4.5.x lyfe]]></document>
+		<document><![CDATA[@4dexpert ah; I passed away an entire day getting Xam and netstandard end to end a reality. Glad I'm not the only one.]]></document>
+		<document><![CDATA[@nigelsampson @bradygaster yet so incredibly important. Health of the project and Peace of mind of the maintainers. R&amp;R is important.]]></document>
+		<document><![CDATA[ITT; uninstalled vs2017 rc because the experience with #xamarin is so poor. I can't be the only one?]]></document>
+		<document><![CDATA[@jeremy_h73 @_AndrewB also... This is why this library exists. Bring in conventions over time. There's options to "accept debt"]]></document>
+		<document><![CDATA[@RobGibbens @_AndrewB  yup exactly. One the things about Sonarqube &amp; stylecop is the feedback isn't immediately useful/high value. This is.]]></document>
+		<document><![CDATA[@developerjack rule can be customised to also allow other prefixes. Nice way to prevent commits of commented out dead code. :p]]></document>
+		<document><![CDATA[Why doesn't every project start with this? Enforcement of house rules as unit tests. https://t.co/OhC1quE6ZS - Bril… https://t.co/94ktl8IrxR]]></document>
+		<document><![CDATA[@developerjack hmm; why roll vs boom? Going to pick one up eventually. Ordered new backpack moments ago https://t.co/pbjUCnKvUC omg omg]]></document>
+		<document><![CDATA[@developerjack @ultimateears which one did you get?]]></document>
+		<document><![CDATA[Why does this library only have 28 stars? https://t.co/OhC1quE6ZS check out the samples unit tests @ https://t.co/fELzK7lrrf]]></document>
+		<document><![CDATA[@JaridKG @PlanetXamarin open a GitHub issue please :)]]></document>
+		<document><![CDATA[@devlead @zapier might look into a zap that detects the event.]]></document>
+		<document><![CDATA[@devlead ugh. More software dev glue. After much uhm and ahing I forked out for @zapier this year. No regrets.]]></document>
+		<document><![CDATA[@devlead ya that was a good read. Section about expectations is spot on. Hard to do; yet important.]]></document>
+		<document><![CDATA[@devlead ya confirmed. It's started happening to rxui. Had to write docs/process to cover it https://t.co/ARBUJFbIPx]]></document>
+		<document><![CDATA[@MarcBruins nice work. RxUI missing from architecture section though. Would send PR but on phone :)]]></document>
+		<document><![CDATA[@alecdtucker @matthewrdev actually four!]]></document>
+		<document><![CDATA[@alecdtucker @matthewrdev wait what. Just realised. That's three MVPs at one user group.]]></document>
+		<document><![CDATA[Have questions about Reactive Programming with #Xamarin using @ReactiveXUI ask on @stackoverflow to help unlock dis https://t.co/wUzG627Bc0]]></document>
+		<document><![CDATA[The Weekly Xamarin - Issue 118 - 25th Jan 2017 is now available: https://t.co/hfXFROTwAG #xamarin]]></document>
+		<document><![CDATA[Testimonial for RxUI by @eric_sink - author of SQLitePCL.raw. https://t.co/ENTz5gQVyS #xamarin https://t.co/tcylIX32dw]]></document>
+		<document><![CDATA[@eric_sink thank-you.]]></document>
+		<document><![CDATA[@JackUkleja also.... Come join us in Slack.]]></document>
+		<document><![CDATA[@JackUkleja they are getting better; fast. I'm planning on taking leave from work soon to make samples. Need UX designer.  Know any?]]></document>
+		<document><![CDATA[@JackUkleja RxUI is old enough for gradeschool. So yes there has been API changes. Mainly on RxCommand but that's now well documented.]]></document>
+		<document><![CDATA[@sinclairinator come join us in Slack!]]></document>
+		<document><![CDATA[@kzu @onovotny ding me as well please Oren. RxUI samples are vs2017.]]></document>
+		<document><![CDATA[@citizenmatt nice knowing you. :)]]></document>
+		<document><![CDATA[@adpead no evolve this year? Fine. As long as it happens 2018.]]></document>
+		<document><![CDATA[I just signed this petition. Bring back Xamarin Evolve! https://t.co/wyzNHRLDRc via @ipetitions #xamarin]]></document>
+		<document><![CDATA[@SamuelDebruyn @ipetitions .... ut Microsoft decided not to host Xamarin Evolve in 2017... ... Source?]]></document>
+		<document><![CDATA[@James_M_South tomorrow. If you're in the office. Let's go through this. Something I've thought alot about.]]></document>
+		<document><![CDATA[@PlanetXamarin @JamesMontemagno I'm so glad we brought this back!]]></document>
+		<document><![CDATA[@jchannon @citizenmatt love your work]]></document>
+		<document><![CDATA[@citizenmatt interesting. Thanks for sharing. Have been thinking about this. Yeoman to generate dotnet feels wierd.]]></document>
+	</documents>
+</author>

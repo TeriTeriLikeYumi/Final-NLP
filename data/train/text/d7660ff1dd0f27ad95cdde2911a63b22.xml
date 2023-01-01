@@ -1,0 +1,104 @@
+<author lang="en">
+	<documents>
+		<document><![CDATA[Great new work by @lelandtlr and co on GxE interactions in skeletal muscle https://t.co/apasCqk2Dh]]></document>
+		<document><![CDATA[Very happy with the quality and turn-around time of the review on my @thePeerJ submission!]]></document>
+		<document><![CDATA[@pjacock @YorkBioinfo @BioMickWatson @OmicsOmicsBlog one of the many reasons I wrote the 'xphyle' package https://t.co/Dcmuh0D8h6]]></document>
+		<document><![CDATA[Great new work from @_apm0 https://t.co/X2hqkDypWP]]></document>
+		<document><![CDATA[Best Bioinformatics paper title of the year? "seXY: a tool for sex inference from genotype arrays" https://t.co/opLOlaouNy]]></document>
+		<document><![CDATA[The most important thing you can do for science today: weigh in on citing preprints in @NIH grant applications: https://t.co/p4KSHYECGU.]]></document>
+		<document><![CDATA[Zomg, the BBC iPlayer volume control goes to 11]]></document>
+		<document><![CDATA[@giessel @abarysh This is a really great insight! I will definitely use this.]]></document>
+		<document><![CDATA[AK: metagraph + bz2 compression of all NCBI viral sequences -&gt; 7% of raw sequence size #BioData16]]></document>
+		<document><![CDATA[AK taking about applying succinct de Bruijn Graphs (https://t.co/Ja4WhMMNiP) to metagenomics #BioData16]]></document>
+		<document><![CDATA[Great hacking with my #BioData16 hackathon team @morgantaschuk, Upendra, @DCGenomics, and Andrew! WIP here: https://t.co/JmywYSiRu5]]></document>
+		<document><![CDATA[Mendelian diseases are rare, but reduced expression of Mendelian disease genes is not. NC #BioData16]]></document>
+		<document><![CDATA[@jeremy_m_simon Monocle orders single cells in a single experiment, where as @BeEngelhardt 's methods require data from multiple time points]]></document>
+		<document><![CDATA[@jeremy_m_simon If I understand Monocle correctly, it's meant for a different class of data than what @BeEngelhardt presented. 1/2]]></document>
+		<document><![CDATA[I think this is the best equation slide I've ever seen #BioData16]]></document>
+		<document><![CDATA[Correlation vs causation: is methylation an indicator of binding, or does it cause/discourage binding? MH looking into it #BioData16]]></document>
+		<document><![CDATA[MH CTCF dislikes methylated sequences, ZFP57 loves em #BioData16]]></document>
+		<document><![CDATA[MEME suite now works with arbitrary genetic alphabets #BioData16]]></document>
+		<document><![CDATA[MH Just add more rows to the PWM for compatibility with existing motif analysis strategies #BioData16]]></document>
+		<document><![CDATA[.@michaelhoffman expands the epigenetic alphabet used to predict methyl-sensitive TF binding #BioData16]]></document>
+		<document><![CDATA[OT Clarification: training on quantitative data; predicting fold-change #BioData16]]></document>
+		<document><![CDATA[Beautiful master lecture from @OlgaTroyanskaya at #BioData16 : very motivating to see what's possible with DNNs]]></document>
+		<document><![CDATA[@michaelhoffman Never is a long time. I think that translates into '5 years' in ML time.]]></document>
+		<document><![CDATA[@iddux True, but we need more GPU power to make them really Huuuuugeee]]></document>
+		<document><![CDATA[OT Hyperparameter choice is human-intensive; little theory to direct optimal choice - still mostly empirical #BioData16]]></document>
+		<document><![CDATA[OT It's not so much how much data you have as the dimensionality vs sample size that determines whether DNNs will work #BioData16]]></document>
+		<document><![CDATA[@GholsonLyon creative disruption of the scientific method]]></document>
+		<document><![CDATA[OT should live-code a neural network to learn the relationship between real time and the CSHL clock #BioData16]]></document>
+		<document><![CDATA[OT Many posible DNN architectures (here's a handy list: https://t.co/g6xavI9o8j) #BioData16]]></document>
+		<document><![CDATA[OT "In machine learning, you never get a free pass" #BioData16]]></document>
+		<document><![CDATA[OT Deep Learning: composable models trainable by gradient #BioData16]]></document>
+		<document><![CDATA[@giessel @CSHL Looking forward to the Pan-Gourd Genome Project]]></document>
+		<document><![CDATA[@notthatdrjones @biorxivpreprint Yes, this has been successful at NHGRI. It's great for grads/postdocs to get experience reviewing papers.]]></document>
+		<document><![CDATA[Very impressed with @anshul lab dedication to open science - everything on GitHub, biorxiv #BioData16]]></document>
+		<document><![CDATA[AS MoDiSco: identify high-important features, cluster -&gt; more accurate motifs, incl flanking regions that suggest co-binding #BioData16]]></document>
+		<document><![CDATA[AS Challenges: Getting the reference activation correct - use different references depending on genomic context #BioData16 2/2]]></document>
+		<document><![CDATA[AS Backprop (gradient descent) has limitations: saturation, thresholding; solutions: use difference from reference activation #BioData16 1/2]]></document>
+		<document><![CDATA[AS In Silico Mutagenesis not computationally feasible for long sequences #BioData16]]></document>
+		<document><![CDATA[AS Can we build a neural network to distinguish @anshul from @OlgaTroyanskaya? I hope so #BioData16]]></document>
+		<document><![CDATA[Time to hear about DeepLIFT! #BioData16]]></document>
+		<document><![CDATA[GD When same SNP is most significant across conditions, effect size is reproducible; with different SNPs, all bets are off #BioData16]]></document>
+		<document><![CDATA[@David_McGaughey don't think so, but I'll ask]]></document>
+		<document><![CDATA[GD sim shows true eQTL effect (causal SNP) hidden by more signif (false) assns; interested to see how this compares with coloc #BioData16]]></document>
+		<document><![CDATA[YH all features contribute a small amount to the final prediction (0.02 - 0.05) #BioData16]]></document>
+		<document><![CDATA[YH working on applying DeepINSIGHT to noncoding variation #BioData16]]></document>
+		<document><![CDATA[YH DeepINSIGHT, Eigen close to upper bound of prediction accuracy for functional impact of BRAC1 mutations #BioData16]]></document>
+		<document><![CDATA[YH DeepINSIGHT: neural network learns selection coef from genomic features, feed through mixture model to predict function effect #BioData16]]></document>
+		<document><![CDATA[YFH lims. of fitCons: can't est selection coefficient, linear (can't capture higher-order interactions); alternative: DeepINSIGHT #BioData16]]></document>
+		<document><![CDATA[Clarification: "more than 5"]]></document>
+		<document><![CDATA[What's the lower bound on timepoints for transcriptional response analysis? .@BeEngelhardt : depends, but 12 is pushing the limit #BioData16]]></document>
+		<document><![CDATA[.@BeEngelhardt boldly showing a three-equation slide at 9:07am #needmorecoffee #BioData16]]></document>
+		<document><![CDATA[.@BeEngelhardt need new methods adapted to specific properties of transcriptional response data #BioData16]]></document>
+		<document><![CDATA[Transcriptional response data != traditional time-series. Resp not stationary, sparse sampling of obs, resp time diff by gene BEE #BioData16]]></document>
+		<document><![CDATA[@morgantaschuk It's pretty cool! Although it takes about 200G memory to build the index. Which I guess isn't much anymore?]]></document>
+		<document><![CDATA[@lpachter At BoG 15, was a rule that first question had to be from trainee; fixed gender disparity (after norm. for audience composition)]]></document>
+		<document><![CDATA[@anshul lab DragoNN is a great resource -- nice tutorials for getting up and running with genomic #deeplearning #BioData16]]></document>
+		<document><![CDATA[RI: Currently applying GC bias correction to ChIP-seq because "it's there" #BioData16]]></document>
+		<document><![CDATA[Rafa shows a model to predict coverage based on CG content correct for bias (Alpine) - now incorporated into Salmon #BioData16]]></document>
+		<document><![CDATA[@michaelhoffman @realDonaldTrump Somehow I don't think he'd cluster with the rest of the human samples]]></document>
+		<document><![CDATA[Rafa demonstrates the enduring beauty of base R plots #BioData16]]></document>
+		<document><![CDATA[Rafa on the typical bioinfo workflow: raw data -&gt; pre-processing -&gt; analysis -&gt; knowledge! #BioData16]]></document>
+		<document><![CDATA[@rarbrew @UnionBrewing complete 180 after the VIP session was over… Bathroom lines a mile long, water jugs empty; not going back next year]]></document>
+		<document><![CDATA[Best Baltimore Craft Beer Fest yet! Fantastic harvest beers from @rarbrew @UnionBrewing and many more]]></document>
+		<document><![CDATA[Looking forward to @cshlmeetings #BIODATA16 next week. Can’t wait to hackathon with @DCGenomics and others!]]></document>
+		<document><![CDATA[@GeneticsGSA #G3 is piloting a new article format, the "genome report," and we're the guinea pigs :) https://t.co/AG0PQ78PCY @_apm0]]></document>
+		<document><![CDATA[@JennyBryan @ShriramKMurthi jebus do I love this piece so much…kudos to an academic standing up for the importance of CS education!]]></document>
+		<document><![CDATA[@phylogenomics immediately I thought: is anyone doing dog microbiome sampling from trash bins at dig parks?]]></document>
+		<document><![CDATA[New read trimming software Atropos -- preprint: https://t.co/dQdn9AtiiF; GitHub: https://t.co/oab27bjsy7; "pip install atropos" on py3.3+]]></document>
+		<document><![CDATA[@StarrAhrens great idea. I want to do this with vacated big box stores, killing their argument for tax breaks https://t.co/B0MlKHT5yH]]></document>
+		<document><![CDATA[@HandsomeBeerCo I just bought some at Dominion in Falls Church]]></document>
+		<document><![CDATA[Every scientist has a different reason for doing what they do; to me, the personal stories are the most inspiring https://t.co/HrJyLbXALu]]></document>
+		<document><![CDATA[Must faster than SeqPurge; faster than Skewer with 16 threads...what other trimmers should I benchmark against?]]></document>
+		<document><![CDATA[Atropos is a fork of Cutadapt with multi-threading support and other usability improvements: https://t.co/oab27bjsy7 ; preprint coming soon]]></document>
+		<document><![CDATA[Open peer review from our last two preprint journal clubs: Mangul et al. https://t.co/VDdVOmZTzT and LaBar and Adami https://t.co/T4BE11qQAG]]></document>
+		<document><![CDATA[Today I joined the ranks of @swcarpentry instructors! Looking forward to teaching my first workshop @NIH in October]]></document>
+		<document><![CDATA[Great article from @EpgntxEinstein and Steven Henikoff - two moderating voices in a hype-prone field: https://t.co/YUOtVdc3cl]]></document>
+		<document><![CDATA[Our paper on the genetic-regulatory architecture of T2D in skeletal muscle is out in Nature Communications https://t.co/iMEYR2zf1U]]></document>
+		<document><![CDATA[@dccc_phd I don't see me ("The Impostor")]]></document>
+		<document><![CDATA[@frey_lab cool work, but there's no good reason for publicly funded research software to be "available by request" https://t.co/tCDGkk4MBb]]></document>
+		<document><![CDATA[Favorite paper title in a long time: “Dumpster diving in RNA-sequencing to find the source of every last read” https://t.co/X49o5mkB3j]]></document>
+		<document><![CDATA[@anavinuela bigger names and/or sexier topics/titles…But certainly not necessarily“better”]]></document>
+		<document><![CDATA[@anavinuela share the work, input from multiple ppl, + benefit of learning about cutting edge research (i.e. 6 mo or more ahead of pub) 2/2]]></document>
+		<document><![CDATA[@anavinuela probably true, and reviews are biased towards "more interesting" papers. But I think preprint journal clubs can help: 1/2]]></document>
+		<document><![CDATA[The power of preprints: authors substantially improving their paper thanks to comments from our journal club: https://t.co/fvfPReQlRJ]]></document>
+		<document><![CDATA[I love finding frustrated debugging messages accidentally left in production (or at least published) code. https://t.co/AoC6xxl4D8]]></document>
+		<document><![CDATA[Conservatives hate political correctness until you mock one of their icons https://t.co/TMzLccsVEn]]></document>
+		<document><![CDATA[JN: find several genes that display wooing behavior, incl Apobec1, Adar1, Pum1, Ddx1; wicked ascertainment bias - how many more? #NIHTI16]]></document>
+		<document><![CDATA[JN: Dnd1 KO - no homozygotes, but no decrease in litter size; interpretation is preferential fertilization, i.e. "gametes woo" #NIHTI16]]></document>
+		<document><![CDATA[Looking forward to part 3 of Joe Nadeau's talk at #NIHTI16: "Do gametes woo?"]]></document>
+		<document><![CDATA[3. If 20% of gametes have epigenome perturbed, only 20% of offspring should inherit (*unless* affected gametes more/less fit) #NIHTI16 3/3]]></document>
+		<document><![CDATA[@HopeJahren @dccc_phd @POTUS @NSF here here! And let's not forget @NIH as well.]]></document>
+		<document><![CDATA[2. Consider all confounding factors: DNA sequence variability, cell subtype proportion, mosicism, many more 2/3 #NIHTI16]]></document>
+		<document><![CDATA[John Greally on epigenomics experiments: 1. Know your hypothesis: env perturbs cell type? env changes lineage commitement? #NIHTI16 1/3]]></document>
+		<document><![CDATA[@EpgntxEinstein @meandertail @NIH let's go with #NIHTI16]]></document>
+		<document><![CDATA[@ljdursi @gvwilson @pathogenomenick an epic tale of debugging. Kudos!]]></document>
+		<document><![CDATA[@drtkeane @BMC_series I like this…do the discounts stack if you review &gt;1?]]></document>
+		<document><![CDATA[How I feel when the LaTeX table looks passable after two hours of trying https://t.co/Xo3qXELbL1]]></document>
+		<document><![CDATA[Also, mapping rate &gt;99%, better than next-fastest Bison (11h with 5 x 6 = 30 cores).]]></document>
+		<document><![CDATA[Impressed w bwa-meth https://t.co/1epla8TvRg. 10h to map 350M PE bisulfite reads w 16 threads. Bowtie2 and LAST still running after &gt;1 day.]]></document>
+		<document><![CDATA[This month our preprint journal club reviews https://t.co/ulb7TSB1G3 from @BeEngelhardt &amp; co. If you're @NIH, join us in 50-5328 at noon!]]></document>
+	</documents>
+</author>

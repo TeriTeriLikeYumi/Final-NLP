@@ -1,0 +1,107 @@
+<author lang="en">
+	<documents>
+		<document><![CDATA[A certain toddler has decided that Star Wars lego is much more fun than Frozen lego. ☺️]]></document>
+		<document><![CDATA[This ain't gonna end well #StarWars https://t.co/Q4KFmsL6vO]]></document>
+		<document><![CDATA[Not too shabby 🍺 https://t.co/Af1JnyqKoh]]></document>
+		<document><![CDATA[Enjoying the #ForHonor beta more than I expected to, lots of progression/customisation options. Not sure core gameplay has longevity though]]></document>
+		<document><![CDATA[@yanncabon thanks, got fed up of opening a site on my phone and not working. Seemed the simplest way to fix it.]]></document>
+		<document><![CDATA[Hope this turns out to be good! https://t.co/Y4owCJ6aeH]]></document>
+		<document><![CDATA[Fallback to 2D using #esrijs v4 https://t.co/Vke8IAkJu3]]></document>
+		<document><![CDATA[pretty handy is-webgl-enabled and is-mobile -&gt; 
+isWebGLEnabled() &amp;&amp; !isMobile() ? "esri/views/SceneView" : "esri/views/MapView" #esrijs]]></document>
+		<document><![CDATA[The benefit of using CSS to get animated markers is that it works in the legend too :) #esrijs https://t.co/RE7dISv18u]]></document>
+		<document><![CDATA[v0.15.0 released of arcgis-react-redux-legend: Esrified the checkbox style, now moar icons #esrijs… https://t.co/Sg35swWnyP]]></document>
+		<document><![CDATA[@tomwayson yea was testing it out and your project was a nice way to get a bunch of maps quickly]]></document>
+		<document><![CDATA[Messing around with @tomwayson esri-react-router example https://t.co/NaFIVS1GnC https://t.co/7dg0GvwUbo]]></document>
+		<document><![CDATA[Wish I still had mine! https://t.co/AbrsaSuTZa]]></document>
+		<document><![CDATA[Join me in the Sea of Thieves Insider programme! https://t.co/KxWzFDITcJ]]></document>
+		<document><![CDATA[Managed to successfully upgrade a project from webpack 1 -&gt; 2 today. https://t.co/kCAZ0lHSgd]]></document>
+		<document><![CDATA[Legend control for #esrijs v4 updated at https://t.co/5XTilF0C9G and demo site updated https://t.co/S8SsUyJStH]]></document>
+		<document><![CDATA[Pushed my #esrijs legend control to npm for easier consumption https://t.co/JbnIxNmgkR]]></document>
+		<document><![CDATA[@jamesmfee superseded by Web AppBuilder]]></document>
+		<document><![CDATA[@ThisIsDIM happy new year! Thanks for your work on DIM!]]></document>
+		<document><![CDATA[@BrockLAllen happy new year! Thanks for your work on Identity Server]]></document>
+		<document><![CDATA[@yanncabon @odoenet @tomwayson happy new year! Thanks for your work on all things #esrijs]]></document>
+		<document><![CDATA[@punker76 happy new year! Thanks for your work on MahApps.Metro]]></document>
+		<document><![CDATA[@James_Willock happy new year! Thanks for your work on material design on Xaml. Also, looks like Villa won't get relegated again!]]></document>
+		<document><![CDATA[@paulcbetts happy new year! Thanks for all your OSS work, especially Squirrel and Akavache 🐿]]></document>
+		<document><![CDATA[@majornelson Battlefield 1 #FreeCodeFriday]]></document>
+		<document><![CDATA[When For Honor was first announced I was intrigued, looks very bland however. Camera and controls seem sloppy https://t.co/V3bDZo9UQL]]></document>
+		<document><![CDATA[@majornelson The Walking Dead : A New Frontier! 🎅🎁#FreeCodeFriday]]></document>
+		<document><![CDATA[Quick #esrijs v4 tip, set the container of a widget to add it outside a map, thanks @yanncabon for the heads up!
+wi… https://t.co/0l4ktUW9HB]]></document>
+		<document><![CDATA[@steveagrc not really, think I signed up a while back but not been using it]]></document>
+		<document><![CDATA[@steveagrc had their Cold Brew IPA the other day, really good https://t.co/A3duaoJiCm ☕️🍺]]></document>
+		<document><![CDATA[@steveagrc no, though it would've been appropriate! Was a Baylands Gnarly Ryde Dude With Mango]]></document>
+		<document><![CDATA[@arturot still, enjoyed the movie and looking forward to more in the future!]]></document>
+		<document><![CDATA[@arturot Leia looked better but was only seen briefly. TBH they could have not l shown her and it would have still worked.]]></document>
+		<document><![CDATA[@arturot yea her casting was spot on. Makes me think they wanted to try the full CGI characters as an experiment. Seemed too jarring though]]></document>
+		<document><![CDATA[@arturot yea, was too obvious. Would've preferred a similar looking actor like they did for Mon Motha]]></document>
+		<document><![CDATA[@terrajobst @dotMorten just wait a few months and it might happen, would be #unpresidented not to]]></document>
+		<document><![CDATA[@majornelson the Lancia Delta. Keep on the throttle. #FreeCodeFriday]]></document>
+		<document><![CDATA[Off to see #RogueOne later. Yeaaaa]]></document>
+		<document><![CDATA[New Grimoire with The Dawning, have you picked up Lysander's Cry yet? https://t.co/VpUxds5gms #destiny #destinythegame #TheDawning]]></document>
+		<document><![CDATA[Back to 100% complete for #destinythegame after the 2.5.0 patch fixed the glitched Student of History achievement https://t.co/mownLTHJMH]]></document>
+		<document><![CDATA[Enjoyed ABZÛ, easy to finish and very relaxing #XboxOne https://t.co/NeEiSvmcK2]]></document>
+		<document><![CDATA[@majornelson @DeadRising @AbzuGame @GoGigantic BF1 and Destiny #FreeCodeFriday]]></document>
+		<document><![CDATA[@majornelson @dishonored  how about with stealthy combat #FreeCodeFriday]]></document>
+		<document><![CDATA[@James_Willock @code it does that by default if files have the same name https://t.co/3OwTVVAfU2]]></document>
+		<document><![CDATA[Great post on using webpack with the ArcGIS JS API by @tomwayson https://t.co/rvRmOvS92G #esrijs]]></document>
+		<document><![CDATA[Much simpler way of using create-react-app with the ArcGIS JS API thanks to esri-loader by @tomwayson #esrijs https://t.co/QUuPyJKmFB]]></document>
+		<document><![CDATA[Note to self, import 'babel-polyfill' *before* other bits 😑]]></document>
+		<document><![CDATA[@davetimmins aside from the callback, redux oidc is working really well though]]></document>
+		<document><![CDATA[@davetimmins also seeing weird performance with IdSvr4 when deployed. Everything is blazing fast locally.]]></document>
+		<document><![CDATA[@davetimmins part of the issue was using redux oidc, had to ditch the component and just use the standard JS client in an HTML callback page]]></document>
+		<document><![CDATA[Painful day fighting IIS, deploying net core and react router apps. Mostly got it all working at night, mostly 👽]]></document>
+		<document><![CDATA[I blame the supermoon #eqnz]]></document>
+		<document><![CDATA[Time to setup the new iPhone]]></document>
+		<document><![CDATA[@DeeJ_BNG any news on when the bugged "Student of History" achievement will get sorted? Workarounds don't work, been a few weeks now.]]></document>
+		<document><![CDATA[Good to see ENG vs IND cricket on @skysportnz after missing out on the BAN games #cricket]]></document>
+		<document><![CDATA[I really hope this game is good, loved Ico and SotC https://t.co/C4yKpZdn0R]]></document>
+		<document><![CDATA[So many stupid tweets re the US election, people seem so blinkered to their own views, they aren't willing to investigate / listen to others]]></document>
+		<document><![CDATA[Don't think I'll be making no. 1 in Wellington anytime soon :) https://t.co/5j2fKAgcUG]]></document>
+		<document><![CDATA[Gutted I couldn't go to this gig https://t.co/327mEKGsTu]]></document>
+		<document><![CDATA[This is interesting. Game does sound awesome too https://t.co/coVrDRw5Ex]]></document>
+		<document><![CDATA[Getting into the new KoЯn album after a few listens https://t.co/xSJ5lOEpka]]></document>
+		<document><![CDATA[@CamBlandy nice work, time for a beer then!]]></document>
+		<document><![CDATA[Used to love this game https://t.co/tbdK9uMQbe]]></document>
+		<document><![CDATA[@James_Willock how about https://t.co/F2oKLdL3QT]]></document>
+		<document><![CDATA[@tomwarren looks like a Destiny / Red Dead Redemption crossover!]]></document>
+		<document><![CDATA[Got heroic mode Wrath of the Machine done pretty smoothly last night. More fun than normal mode and some good loot to boot #destinythegame]]></document>
+		<document><![CDATA[Barebones React, Redux, ArcGIS JS and webpack starter based on create-react-app https://t.co/SGPjbBrog1]]></document>
+		<document><![CDATA[Kids 3rd birthday party at our house done. I can relax until Christmas at least (hopefully)]]></document>
+		<document><![CDATA[Whoa! https://t.co/BMIqKgzevb]]></document>
+		<document><![CDATA[@davetimmins At least this guy has gone down though https://t.co/NGc7SkjGNj]]></document>
+		<document><![CDATA[Still need to do this quest! Grimoire Card :: Outbreak Prime https://t.co/05wzZpYEIq]]></document>
+		<document><![CDATA[@DestinLegarie @UrkMcGurk they did 2 hotfix releases the day before Rise of Iron went live, everyone is on that version]]></document>
+		<document><![CDATA[@James_Willock death by draw. Everytime.]]></document>
+		<document><![CDATA[@XHyperSonic22X @MyNameIsByf hopefully you don't have to grind chests for random materials!]]></document>
+		<document><![CDATA[@MyNameIsByf I'm looking forward to getting my hands on the Young Wolf's Howl! https://t.co/weM2hdWAxf]]></document>
+		<document><![CDATA[I'll be visiting this place tonight! 
+Grimoire Card :: Felwinter Peak https://t.co/goFR5Z7odh #DestinyRiseOfIron #destinythegame]]></document>
+		<document><![CDATA[New grimoire for Destiny! Random Destiny Grimoire has the updates https://t.co/xjbLglTAml #RiseofIron #DestinyRiseOfIron #destinythegame]]></document>
+		<document><![CDATA[This is a great starter for React, Redux and ArcGIS https://t.co/q1ttjr5N1F #esrijs]]></document>
+		<document><![CDATA[@odoenet @yanncabon next level dad joke right there!]]></document>
+		<document><![CDATA[Listening to old skool Therapy? https://t.co/YmnIsNvo79]]></document>
+		<document><![CDATA[Dynamo though... https://t.co/hxHbI4bDwr https://t.co/LjWwaaYXHB]]></document>
+		<document><![CDATA[@steveagrc how about https://t.co/M96MddzvMO]]></document>
+		<document><![CDATA[Another #esrijs widget for V4. Allows you to persist the map viewpoint with either the url hash or localStorage https://t.co/P7xL6Brqu4]]></document>
+		<document><![CDATA[@odoenet that's funny looking tequila!]]></document>
+		<document><![CDATA[Passed 50K gamerscore 🎮 #Xbox https://t.co/UmGnfNLl0n]]></document>
+		<document><![CDATA[First attempt at an extent navigation widget for V4 of the ArcGIS JS API #esrijs https://t.co/NCcc3h5c0E]]></document>
+		<document><![CDATA[On about our 8th hailstorm of the day so far, seems like winter came late 😐]]></document>
+		<document><![CDATA[@gavinrehkemper @ArcGISJSAPI Thanks!]]></document>
+		<document><![CDATA[Made a basic fullscreen widget for the ArcGIS JS API V4 #esrijs https://t.co/9LJVVwaLSW]]></document>
+		<document><![CDATA[It IS Friday. Thank Fuck 🤘 https://t.co/cN89rm9u92]]></document>
+		<document><![CDATA[That's a lot of recent activity :( #eqnz https://t.co/TR3Omr1H6d]]></document>
+		<document><![CDATA[Horde 3.0 in Gears 4 looks epic, one of my favourite game modes https://t.co/RTV3ERMtEB]]></document>
+		<document><![CDATA[New version of ArcGIS.PCL (5.7.0) on NuGet and GitHub, adds a few missing properties to QueryResponse https://t.co/g91tw5sC4V]]></document>
+		<document><![CDATA[Thankfully it's the end of winter so now we don't have to suffer this brutal weather anymore 😎 https://t.co/EoT81Bok0h]]></document>
+		<document><![CDATA[One of my favourite Dream Theater songs and such a good guitar solo https://t.co/p8fBrcus9D]]></document>
+		<document><![CDATA[@davetimmins beast feeding time https://t.co/QDczKgGhHU]]></document>
+		<document><![CDATA[@brymcbride @bFlood @billdollins to calculate deltas you just need the Ids (ImmutableGlobalId) from the previous execution for that system]]></document>
+		<document><![CDATA[@brymcbride @bFlood @billdollins used the createReplica operation with syncMode none as it needed attachments too]]></document>
+		<document><![CDATA[@brymcbride @bFlood @billdollins Assigned GlobalID from the owner to ImmutableGlobalID and used that to work out adds, updates and deletes]]></document>
+		<document><![CDATA[@brymcbride @bFlood @billdollins I've done it before with a number of related local Portal instances and ArcGIS Online.]]></document>
+	</documents>
+</author>
