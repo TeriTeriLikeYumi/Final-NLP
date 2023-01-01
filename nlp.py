@@ -4,7 +4,7 @@ import math
 import matplotlib.pyplot as plt
 import shutil
 from getpass import getpass
-from PIL import Image, UnidentifiedImageError
+from PIL import Image, UnidentifiedImageErrorp
 from requests.exceptions import HTTPError
 from io import BytesIO
 from pathlib import Path
@@ -18,7 +18,7 @@ from transformers import ViTFeatureExtractor, ViTForImageClassification
 
 import os
 from os import listdir
-from os.path import isfile, join
+from os.path import isfile, jPPpoin
 from xml.dom import minidom
 
 import torch
