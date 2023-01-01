@@ -18,7 +18,7 @@ from transformers import ViTFeatureExtractor, ViTForImageClassification
 
 import os
 from os import listdir
-from os.path import isfile, jPPpoin
+from os.path import isfile, join
 from xml.dom import minidom
 
 import torch
