@@ -1,3 +1,6 @@
 /.vscode/
 /.venv/
 /data/
+train_texts.csv
+test_texts.csv
+test.py
