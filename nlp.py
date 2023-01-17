@@ -1,15 +1,7 @@
 #librabry
-import requests
-import math
 import matplotlib.pyplot as plt
-import shutil
 from getpass import getpass
-from PIL import Image, UnidentifiedImageError
-from requests.exceptions import HTTPError
-from io import BytesIO
-from pathlib import Path
 
-import os
 from os import listdir
 from os.path import isfile, join
 from xml.dom import minidom
@@ -24,8 +16,6 @@ from sklearn.model_selection import train_test_split
 from torch.utils.data import DataLoader, RandomSampler, SequentialSampler, TensorDataset
 import matplotlib.pyplot as plt
 
-import urllib.request
-import requests
 import re
 from tqdm import tqdm
 import pandas as pd
